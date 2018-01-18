@@ -5,9 +5,8 @@
     android:layout_height="match_parent"
     android:minWidth="25px"
     android:minHeight="25px">
-    <Button
-        android:text="Chalisa Sangrah"
+    <android.webkit.WebView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/ChalisaSangrahButton" />
+        android:id="@+id/ShivaChalisaWebView1" />
 </LinearLayout>

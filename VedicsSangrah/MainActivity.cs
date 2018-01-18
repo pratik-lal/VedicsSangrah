@@ -13,6 +13,12 @@ namespace VedicsSangrah
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
+            Button button1 = FindViewById<Button>(Resource.Id.ChalisaSangrahButton);
+            button1.Click += delegate
+             {
+                 StartActivity(typeof(ChalisaSangrah));
+             };
+
         }
     }
 }
