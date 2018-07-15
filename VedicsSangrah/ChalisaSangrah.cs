@@ -81,7 +81,7 @@ namespace VedicsSangrah
             };
 
             Button button14 = FindViewById<Button>(Resource.Id.KaliMaaChalisaButton);
-            button12.Click += delegate
+            button14.Click += delegate
             {
                 StartActivity(typeof(KaaliMaaChalisa));
             };
