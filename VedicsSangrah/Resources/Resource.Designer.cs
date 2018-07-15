@@ -45,31 +45,82 @@ namespace VedicsSangrah
 		{
 			
 			// aapt resource value: 0x7f040007
-			public const int ChalisaSangrahButton = 2130968583;
+			public const int AnnapurnaChalisaButton = 2130968583;
 			
 			// aapt resource value: 0x7f040000
-			public const int GaneshChalisaButton = 2130968576;
+			public const int AnnapurnaChalisawebView1 = 2130968576;
 			
-			// aapt resource value: 0x7f040004
-			public const int GaneshChalisaWebView1 = 2130968580;
+			// aapt resource value: 0x7f040009
+			public const int BhairavChalisaButton = 2130968585;
 			
 			// aapt resource value: 0x7f040001
-			public const int HanumanChalisaButton = 2130968577;
-			
-			// aapt resource value: 0x7f040005
-			public const int HanumanChalisawWebView1 = 2130968581;
-			
-			// aapt resource value: 0x7f040003
-			public const int KrishnaChalisaButton = 2130968579;
-			
-			// aapt resource value: 0x7f040006
-			public const int KrishnaChalisaWebView1 = 2130968582;
-			
-			// aapt resource value: 0x7f040002
-			public const int ShivChalisaButton = 2130968578;
+			public const int BhairavChalisawebView1 = 2130968577;
 			
 			// aapt resource value: 0x7f040008
-			public const int ShivaChalisaWebView1 = 2130968584;
+			public const int BramhaChalisaButton = 2130968584;
+			
+			// aapt resource value: 0x7f040002
+			public const int BramhaChalisawebView1 = 2130968578;
+			
+			// aapt resource value: 0x7f040018
+			public const int ChalisaSangrahButton = 2130968600;
+			
+			// aapt resource value: 0x7f04000a
+			public const int ChitraguptaChalisaButton = 2130968586;
+			
+			// aapt resource value: 0x7f040010
+			public const int ChitraguptaChalisawebView1 = 2130968592;
+			
+			// aapt resource value: 0x7f04000b
+			public const int DurgaChalisaButton = 2130968587;
+			
+			// aapt resource value: 0x7f040011
+			public const int DurgaChalisawebView1 = 2130968593;
+			
+			// aapt resource value: 0x7f040003
+			public const int GaneshChalisaButton = 2130968579;
+			
+			// aapt resource value: 0x7f040012
+			public const int GaneshChalisaWebView1 = 2130968594;
+			
+			// aapt resource value: 0x7f04000c
+			public const int GayatriChalisaButton = 2130968588;
+			
+			// aapt resource value: 0x7f040013
+			public const int GayatriChalisawebView1 = 2130968595;
+			
+			// aapt resource value: 0x7f040004
+			public const int HanumanChalisaButton = 2130968580;
+			
+			// aapt resource value: 0x7f040014
+			public const int HanumanChalisawWebView1 = 2130968596;
+			
+			// aapt resource value: 0x7f04000d
+			public const int KaliMaaChalisaButton = 2130968589;
+			
+			// aapt resource value: 0x7f040015
+			public const int KaliMaaChalisawebView1 = 2130968597;
+			
+			// aapt resource value: 0x7f04000e
+			public const int KhatuShyamChalisaButton = 2130968590;
+			
+			// aapt resource value: 0x7f040016
+			public const int KhatuShyamChalisawebView1 = 2130968598;
+			
+			// aapt resource value: 0x7f040006
+			public const int KrishnaChalisaButton = 2130968582;
+			
+			// aapt resource value: 0x7f040017
+			public const int KrishnaChalisaWebView1 = 2130968599;
+			
+			// aapt resource value: 0x7f04000f
+			public const int KuberChalisaButton = 2130968591;
+			
+			// aapt resource value: 0x7f040005
+			public const int ShivChalisaButton = 2130968581;
+			
+			// aapt resource value: 0x7f040019
+			public const int ShivaChalisaWebView1 = 2130968601;
 			
 			static Id()
 			{
@@ -85,22 +136,46 @@ namespace VedicsSangrah
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int ChalisaMainPage = 2130837504;
+			public const int AnnapurnaChalisaa = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int GaneshJeeChalisa = 2130837505;
+			public const int BhairavChalisa = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int HanumanJeeChalisa = 2130837506;
+			public const int BramhaChalisa = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int KrishnaJeeChalisa = 2130837507;
+			public const int ChalisaMainPage = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int Main = 2130837508;
+			public const int ChitraguptaChalisa = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int ShivJeeChalisa = 2130837509;
+			public const int DurgaChalisa = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int GaneshJeeChalisa = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int GayatriChalisa = 2130837511;
+			
+			// aapt resource value: 0x7f020008
+			public const int HanumanJeeChalisa = 2130837512;
+			
+			// aapt resource value: 0x7f020009
+			public const int KaaliMaaChalisa = 2130837513;
+			
+			// aapt resource value: 0x7f02000a
+			public const int KhatuShyamChalisa = 2130837514;
+			
+			// aapt resource value: 0x7f02000b
+			public const int KrishnaJeeChalisa = 2130837515;
+			
+			// aapt resource value: 0x7f02000c
+			public const int Main = 2130837516;
+			
+			// aapt resource value: 0x7f02000d
+			public const int ShivJeeChalisa = 2130837517;
 			
 			static Layout()
 			{

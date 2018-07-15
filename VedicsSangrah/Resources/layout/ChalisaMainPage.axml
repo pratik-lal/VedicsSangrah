@@ -1,26 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <Button
-        android:text="Ganesh Chalisa"
+    <LinearLayout
+        android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/GaneshChalisaButton" />
-    <Button
-        android:text="Hanuman Chalisa"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/HanumanChalisaButton" />
-    <Button
-        android:text="Shiv Chalisa"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/ShivChalisaButton" />
-    <Button
-        android:text="Krishna Chalisa"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/KrishnaChalisaButton" />
-</LinearLayout>
+        android:layout_height="match_parent">
+        <Button
+            android:text="GANESH CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/GaneshChalisaButton" />
+        <Button
+            android:text="HANUMAN CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/HanumanChalisaButton" />
+        <Button
+            android:text="Shiv Chalisa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ShivChalisaButton" />
+        <Button
+            android:text="KRISHNA CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/KrishnaChalisaButton" />
+        <Button
+            android:text="Annapurna Chalisa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/AnnapurnaChalisaButton" />
+        <Button
+            android:text="BRAMHA CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/BramhaChalisaButton" />
+        <Button
+            android:text="BHAIRAV CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/BhairavChalisaButton" />
+        <Button
+            android:text="CHITRAGUPTA CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ChitraguptaChalisaButton" />
+        <Button
+            android:text="DURGA CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/DurgaChalisaButton" />
+        <Button
+            android:text="GAYATRI CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/GayatriChalisaButton" />
+        <Button
+            android:text="KALI MAA CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/KaliMaaChalisaButton" />
+        <Button
+            android:text="KHATU SHYAM CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/KhatuShyamChalisaButton" />
+        <Button
+            android:text="KABIR CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/KuberChalisaButton" />
+    </LinearLayout>
+</ScrollView>
