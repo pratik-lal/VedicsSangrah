@@ -67,9 +67,49 @@
             android:layout_height="wrap_content"
             android:id="@+id/KhatuShyamChalisaButton" />
         <Button
-            android:text="KABIR CHALISA"
+            android:text="KUBER CHALISA"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/KuberChalisaButton" />
+        <Button
+            android:text="LAKSHMI CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/LakshmiChalisaButton" />
+        <Button
+            android:text="MAHA KALI CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/MahaKaliMaaChalisaButton" />
+        <Button
+            android:text="NAVGRAH CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/NavgrahChalisaButton" />
+        <Button
+            android:text="PARVATI CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ParvatiChalisaButton" />
+        <Button
+            android:text="RADHA CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/RadhaChalisaButton" />
+        <Button
+            android:text="RAM CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/RamChalisaButton" />
+        <Button
+            android:text="SAI CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SaiChalisaButton" />
+        <Button
+            android:text="SANTOSHI MAA CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SantoshiMaaChalisaButton" />
     </LinearLayout>
 </ScrollView>

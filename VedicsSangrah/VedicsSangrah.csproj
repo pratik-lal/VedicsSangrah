@@ -66,9 +66,18 @@
     <Compile Include="KaaliMaaChalisa.cs" />
     <Compile Include="KhatuShyamChalisa.cs" />
     <Compile Include="KrishnaChalisa.cs" />
+    <Compile Include="KuberChalisa.cs" />
+    <Compile Include="LakshmiChalisa.cs" />
+    <Compile Include="MahaKaliMaaChalisa.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="NavgrahChalisa.cs" />
+    <Compile Include="ParvatiChalisa.cs" />
+    <Compile Include="RadhaChalisa.cs" />
+    <Compile Include="RamChalisa.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SaiChalisa.cs" />
+    <Compile Include="SantoshiMaaChalisa.cs" />
     <Compile Include="ShivChalisa.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -113,6 +122,33 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\BhairavChalisa.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\KuberChalisa.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\LakshmiChalisa.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\MahaKaaliMaaChalisa.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\NavgrahChalisa.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ParvatiChalisa.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\RadhaChalisa.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\RamChalisa.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\SaiChalisa.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\SantoshiMaaChalisa.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
@@ -165,6 +201,36 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\BhairavChalisa.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\KuberChalisa.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\LakshmiChalisa.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\MahaKaliMaaChalisa.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Mahalakshmi Chalisa.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\NavgrahChalisa.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\ParvatiChalisa.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\RadhaChalisa.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\RamChalisa.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\SaiChalisa.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\SantoshiMaaChalisa.htm" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

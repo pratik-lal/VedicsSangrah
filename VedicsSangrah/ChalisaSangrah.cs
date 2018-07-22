@@ -91,6 +91,61 @@ namespace VedicsSangrah
             {
                 StartActivity(typeof(KhatuShyamChalisa));
             };
+
+            Button button16 = FindViewById<Button>(Resource.Id.KuberChalisaButton);
+            button16.Click += delegate
+            {
+                StartActivity(typeof(KuberChalisa));
+            };
+
+            Button button17 = FindViewById<Button>(Resource.Id.LakshmiChalisaButton);
+            button17.Click += delegate
+            {
+                StartActivity(typeof(LakshmiChalisa));
+            };
+
+            Button button18 = FindViewById<Button>(Resource.Id.MahaKaliMaaChalisaButton);
+            button18.Click += delegate
+            {
+                StartActivity(typeof(MahaKaliMaaChalisa));
+            };
+
+            Button button19 = FindViewById<Button>(Resource.Id.NavgrahChalisaButton);
+            button19.Click += delegate
+            {
+                StartActivity(typeof(NavgrahChalisa));
+            };
+
+            Button button20 = FindViewById<Button>(Resource.Id.ParvatiChalisaButton);
+            button20.Click += delegate
+            {
+                StartActivity(typeof(ParvatiChalisa));
+            };
+
+            Button button21 = FindViewById<Button>(Resource.Id.RadhaChalisaButton);
+            button21.Click += delegate
+            {
+                StartActivity(typeof(RadhaChalisa));
+            };
+
+            Button button22 = FindViewById<Button>(Resource.Id.RamChalisaButton);
+            button22.Click += delegate
+            {
+                StartActivity(typeof(RamChalisa));
+            };
+
+            Button button23 = FindViewById<Button>(Resource.Id.SaiChalisaButton);
+            button23.Click += delegate
+            {
+                StartActivity(typeof(SaiChalisa));
+            };
+
+            Button button24 = FindViewById<Button>(Resource.Id.SantoshiMaaChalisaButton);
+            button24.Click += delegate
+            {
+                StartActivity(typeof(SantoshiMaaChalisa));
+            };
+            
         }
     }
 }
