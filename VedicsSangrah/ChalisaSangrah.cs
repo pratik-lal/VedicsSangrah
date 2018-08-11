@@ -145,7 +145,54 @@ namespace VedicsSangrah
             {
                 StartActivity(typeof(SantoshiMaaChalisa));
             };
-            
+
+            Button button25 = FindViewById<Button>(Resource.Id.ShreeShaniDevChalisaButton);
+            button25.Click += delegate
+            {
+                StartActivity(typeof(ShreeShaniDevChalisa));
+            };
+
+            Button button26 = FindViewById<Button>(Resource.Id.SaraswatiChalisaButton);
+            button26.Click += delegate
+            {
+                StartActivity(typeof(SaraswatiChalisa));
+            };
+
+            Button button27 = FindViewById<Button>(Resource.Id.SheetlaChalisaButton);
+            button27.Click += delegate
+            {
+                StartActivity(typeof(SheetlaChalisa));
+            };
+
+            Button button28 = FindViewById<Button>(Resource.Id.SuryaChalisaButton);
+            button28.Click += delegate
+            {
+                StartActivity(typeof(SuryaChalisa));
+            };
+
+            Button button29 = FindViewById<Button>(Resource.Id.TulsiChalisaButton);
+            button29.Click += delegate
+            {
+                StartActivity(typeof(TulsiChalisa));
+            };
+
+            Button button30 = FindViewById<Button>(Resource.Id.VashnoDeviChalisaButton);
+            button30.Click += delegate
+            {
+                StartActivity(typeof(VashnoDeviChalisa));
+            };
+
+            Button button31 = FindViewById<Button>(Resource.Id.VindhyeshwariChalisaButton);
+            button31.Click += delegate
+            {
+                StartActivity(typeof(VindhyeshwariChalisa));
+            };
+
+            Button button32 = FindViewById<Button>(Resource.Id.VishnuChalisaButton);
+            button32.Click += delegate
+            {
+                StartActivity(typeof(VishnuChalisa));
+            };
         }
     }
 }

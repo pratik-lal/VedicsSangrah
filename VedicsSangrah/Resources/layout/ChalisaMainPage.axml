@@ -111,5 +111,45 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/SantoshiMaaChalisaButton" />
+        <Button
+            android:text="SHANI DEV CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ShreeShaniDevChalisaButton" />
+       <Button
+           android:text="SARASWATI CHALISA"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:id="@+id/SaraswatiChalisaButton" />
+       <Button
+           android:text="SHEETLA CHALISA"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:id="@+id/SheetlaChalisaButton" />
+       <Button
+          android:text="SURYA CHALISA"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:id="@+id/SuryaChalisaButton" />
+       <Button
+         android:text="TULSI CHALISA"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:id="@+id/TulsiChalisaButton" />
+       <Button
+         android:text="VASHNO DEVI CHALISA"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:id="@+id/VashnoDeviChalisaButton" />
+       <Button
+         android:text="VINDHYESHWARI CHALISA"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:id="@+id/VindhyeshwariChalisaButton" />
+       <Button
+         android:text="VISHNU CHALISA"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:id="@+id/VishnuChalisaButton" />
     </LinearLayout>
 </ScrollView>
