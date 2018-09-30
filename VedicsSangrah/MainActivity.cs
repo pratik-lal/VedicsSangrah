@@ -18,6 +18,11 @@ namespace VedicsSangrah
              {
                  StartActivity(typeof(ChalisaSangrah));
              };
+            Button button2 = FindViewById<Button>(Resource.Id.AartiSangrahButton);
+            button2.Click += delegate
+            {
+                StartActivity(typeof(AartiSangrahcs));
+            };
 
         }
     }

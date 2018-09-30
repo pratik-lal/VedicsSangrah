@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:text="Annapurna Mata Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/AnnapurnaAartiButton" />
+        <Button
+            android:text="Chamunda Devi Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ChamundaDeviAartiButton" />
+        <Button
+            android:text="Ganesh Jee Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/GaneshAartiButton" />
+        <Button
+            android:text="Gayatri Mata Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/GayatriAartiButton" />
+        <Button
+            android:text="Hanuman Jee ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/HanumanAartiaButton" />
+        <Button
+            android:text="Kali Mata ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/KaliMaaAartiButton" />
+        <Button
+            android:text="Kunj Bihari Jee ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/KunjBihariJeeAartiButton" />
+        <Button
+            android:text="Laxhmi Mata Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/LaxhmiMaaAarti" />
+        <Button
+            android:text="Parvati Mata Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ParvatiMaaAartiButton" />
+        <Button
+            android:text="Radha Jee Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/RadhaJeeAartiButton" />
+        <Button
+            android:text="Ram Chandra Jee Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/RamchandraJeeAartiButton" />
+        <Button
+            android:text="Mata Rani Sati Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/MataRaniSatiAartiButton" />
+        <Button
+            android:text="Sai Baba Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SaiBabaAartiButton" />
+        <Button
+            android:text="Santoshi Maa Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SantoshiMaaAartiButton" />
+        <Button
+            android:text="Saraswati Prarthna"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SaraswatiPrarthnaButton" />
+        <Button
+            android:text="Satya Narayan Jee Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SatyaNarayanJeeAartiButton" />
+        <Button
+            android:text="Seeta Mata Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SeetaMataAartiButton" />
+        <Button
+            android:text="Shani Dev Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ShaniDevAartiButton" />
+        <Button
+            android:text="Shiv Jee Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ShivJeeAartiButton" />
+        <Button
+            android:text="Shyam Baba Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ShyamBabaAartiButton" />
+        <Button
+            android:text="Surya Dev Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SuryaDevAartiButton" />
+        <Button
+            android:text="Vishnu Jee Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/VishnuJeeAartiButton" />
+        <Button
+            android:text="SARASWATI CHALISA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SaraswatiChalisaButton" />
+        <Button
+            android:text="Vrihaspati Dev Ki Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/VrihaspatiDevAartiButton" />
+    </LinearLayout>
+</ScrollView>
