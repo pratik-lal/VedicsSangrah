@@ -57,6 +57,7 @@
     <Compile Include="AartiSangrahcs.cs" />
     <Compile Include="AnnapurnaAarti.cs" />
     <Compile Include="AnnapurnaChalisaa.cs" />
+    <Compile Include="ParvatiJeeAarti.cs" />
     <Compile Include="SatyaNarayanJeeAarti.cs" />
     <Compile Include="BhairavChalisa.cs" />
     <Compile Include="BramhaChalisa.cs" />
@@ -87,7 +88,6 @@
     <Compile Include="RadhaJeeAarti.cs" />
     <Compile Include="RamChalisa.cs" />
     <Compile Include="RamchandraAarti.cs" />
-    <Compile Include="ParvatiMaaAarti.cs" />
     <Compile Include="RaniSatiDeviJee.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

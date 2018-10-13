@@ -11,7 +11,7 @@ using Android.Views;
 using Android.Widget;
 using Android.Webkit;
 
-namespace VedicsSangrah.Resources.layout
+namespace VedicsSangrah
 {
     [Activity(Label = "ParvatiMaaAarti")]
     public class ParvatiMaaAarti : Activity

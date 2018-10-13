@@ -11,7 +11,7 @@ using Android.Views;
 using Android.Widget;
 using Android.Webkit;
 
-namespace VedicsSangrah.Assets.aarti
+namespace VedicsSangrah
 {
     [Activity(Label = "SatyaNarayanJeeAarti")]
     public class SatyaNarayanJeeAarti : Activity

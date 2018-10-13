@@ -67,7 +67,81 @@ namespace VedicsSangrah
             {
                 StartActivity(typeof(LakshmiMaaAarti));
             };
-           
+            Button buttonj = FindViewById<Button>(Resource.Id.ParvatiMaaAartiButton);
+            buttonj.Click += delegate
+            {
+                StartActivity(typeof(ParvatiMaaAarti));
+            };
+            Button buttonk = FindViewById<Button>(Resource.Id.RadhaJeeAartiButton);
+            buttonk.Click += delegate
+            {
+                StartActivity(typeof(RadhaJeeAarti));
+            };
+            Button buttonl = FindViewById<Button>(Resource.Id.RamchandraJeeAartiButton);
+            buttonl.Click += delegate
+            {
+                StartActivity(typeof(RamchandraAarti));
+            };
+            Button buttonm = FindViewById<Button>(Resource.Id.MataRaniSatiAartiButton);
+            buttonm.Click += delegate
+            {
+                StartActivity(typeof(RaniSatiDeviJee));
+            };
+            Button buttonn = FindViewById<Button>(Resource.Id.SaiBabaAartiButton);
+            buttonn.Click += delegate
+            {
+                StartActivity(typeof(SaibabaAarti));
+            };
+            Button buttono = FindViewById<Button>(Resource.Id.SantoshiMaaAartiButton);
+            buttono.Click += delegate
+            {
+                StartActivity(typeof(SantoshiMataAarti));
+            };
+            Button buttonp = FindViewById<Button>(Resource.Id.SaraswatiChalisaButton);
+            buttonp.Click += delegate
+            {
+                StartActivity(typeof(SaraswatiPrarthna));
+            };
+            Button buttonq = FindViewById<Button>(Resource.Id.SatyaNarayanJeeAartiButton);
+            buttonq.Click += delegate
+            {
+                StartActivity(typeof(SatyaNarayanJeeAarti));
+            };
+            Button buttonr = FindViewById<Button>(Resource.Id.SeetaMataAartiButton);
+            buttonr.Click += delegate
+            {
+                StartActivity(typeof(SeetaJeeAarti));
+            };
+            Button buttons = FindViewById<Button>(Resource.Id.ShaniDevAartiButton);
+            buttons.Click += delegate
+            {
+                StartActivity(typeof(ShaniDevJeeAarti));
+            };
+            Button buttont = FindViewById<Button>(Resource.Id.ShivJeeAartiButton);
+            buttons.Click += delegate
+            {
+                StartActivity(typeof(ShivJeeAarti));
+            };
+            Button buttonu = FindViewById<Button>(Resource.Id.ShyamBabaAartiButton);
+            buttonu.Click += delegate
+            {
+                StartActivity(typeof(ShyamBabaAarti));
+            };
+            Button buttonv = FindViewById<Button>(Resource.Id.SuryaDevAartiButton);
+            buttonv.Click += delegate
+            {
+                StartActivity(typeof(SuryaDevAarti));
+            };
+            Button buttonw = FindViewById<Button>(Resource.Id.VishnuJeeAartiButton);
+            buttonw.Click += delegate
+            {
+                StartActivity(typeof(VishnuJeeAarti));
+            };
+            Button buttonx = FindViewById<Button>(Resource.Id.VrihaspatiDevAartiButton);
+            buttonx.Click += delegate
+            {
+                StartActivity(typeof(VrihaspatiDevAarti));
+            };
         }
     }
 }
