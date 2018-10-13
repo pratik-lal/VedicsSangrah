@@ -57,6 +57,7 @@
     <Compile Include="AartiSangrahcs.cs" />
     <Compile Include="AnnapurnaAarti.cs" />
     <Compile Include="AnnapurnaChalisaa.cs" />
+    <Compile Include="SatyaNarayanJeeAarti.cs" />
     <Compile Include="BhairavChalisa.cs" />
     <Compile Include="BramhaChalisa.cs" />
     <Compile Include="ChalisaSangrah.cs" />
@@ -83,21 +84,34 @@
     <Compile Include="NavgrahChalisa.cs" />
     <Compile Include="ParvatiChalisa.cs" />
     <Compile Include="RadhaChalisa.cs" />
+    <Compile Include="RadhaJeeAarti.cs" />
     <Compile Include="RamChalisa.cs" />
-    <Compile Include="Resources\layout\ParvatiMaaAarti.cs" />
+    <Compile Include="RamchandraAarti.cs" />
+    <Compile Include="ParvatiMaaAarti.cs" />
+    <Compile Include="RaniSatiDeviJee.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SaibabaAarti.cs" />
     <Compile Include="SaiChalisa.cs" />
     <Compile Include="SantoshiMaaChalisa.cs" />
+    <Compile Include="SantoshiMataAarti.cs" />
     <Compile Include="SaraswatiChalisa.cs" />
+    <Compile Include="SaraswatiPrarthna.cs" />
+    <Compile Include="SeetaJeeAarti.cs" />
+    <Compile Include="ShaniDevJeeAarti.cs" />
     <Compile Include="SheetlaChalisa.cs" />
     <Compile Include="ShivChalisa.cs" />
+    <Compile Include="ShivJeeAarti.cs" />
     <Compile Include="ShreeShaniDevChalisa.cs" />
+    <Compile Include="ShyamBabaAarti.cs" />
     <Compile Include="SuryaChalisa.cs" />
+    <Compile Include="SuryaDevAarti.cs" />
     <Compile Include="TulsiChalisa.cs" />
     <Compile Include="VashnoDeviChalisa.cs" />
     <Compile Include="VindhyeshwariChalisa.cs" />
     <Compile Include="VishnuChalisa.cs" />
+    <Compile Include="VishnuJeeAarti.cs" />
+    <Compile Include="VrihaspatiDevAarti.cs" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\AnnapurnaAarti.axml">
@@ -225,6 +239,48 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\ParvatiMaaAarti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\RadhaJeeAarti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\RamChandraAarti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\RaniSatiJeeAarti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\SaibabaAarti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\SantoshiMataAarti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\SaraswatiPrarthna.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\SatyanarayanJeeAarti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\SeetaJeeAarti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ShaniDevJeeAarti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ShivJeeAarti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ShyamBabaAarti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\SuryaDevAarti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\VishnuJeeAarti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\VrihaspatiDevAarti.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

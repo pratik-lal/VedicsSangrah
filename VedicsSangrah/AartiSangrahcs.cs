@@ -27,6 +27,47 @@ namespace VedicsSangrah
              {
                  StartActivity(typeof(AnnapurnaAarti));
              };
+            Button buttonb = FindViewById<Button>(Resource.Id.ChamundaDeviAartiButton);
+            buttonb.Click += delegate
+            {
+                StartActivity(typeof(ChamundaDeviAarti));
+            };
+            Button buttonc = FindViewById<Button>(Resource.Id.GaneshAartiButton);
+            buttonc.Click += delegate
+            {
+                StartActivity(typeof(GaneshAarti));
+            };
+            Button buttond = FindViewById<Button>(Resource.Id.GayatriAartiButton);
+            buttond.Click += delegate
+            {
+                StartActivity(typeof(GayatriMataAarti));
+            };
+            Button buttone = FindViewById<Button>(Resource.Id.HanumanAartiaButton);
+            buttone.Click += delegate
+            {
+                StartActivity(typeof(HanumanJeeAarti));
+            };
+            Button buttonf = FindViewById<Button>(Resource.Id.KaliMaaAartiButton);
+            buttonf.Click += delegate
+            {
+                StartActivity(typeof(KaaliMaaAarti));
+            };
+            Button buttong = FindViewById<Button>(Resource.Id.KrishnaAartiButton);
+            buttong.Click += delegate
+            {
+                StartActivity(typeof(KrishnaAarti));
+            };
+            Button buttonh = FindViewById<Button>(Resource.Id.KunjBihariJeeAartiButton);
+            buttonh.Click += delegate
+            {
+                StartActivity(typeof(KunjBihariJeeAarti));
+            };
+            Button buttoni = FindViewById<Button>(Resource.Id.LaxhmiMaaAartiButton);
+            buttoni.Click += delegate
+            {
+                StartActivity(typeof(LakshmiMaaAarti));
+            };
+           
         }
     }
 }

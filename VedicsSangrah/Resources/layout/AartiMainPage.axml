@@ -37,6 +37,11 @@
             android:layout_height="wrap_content"
             android:id="@+id/KaliMaaAartiButton" />
         <Button
+            android:text="Krishna Aarti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/KrishnaAartiButton" />
+        <Button
             android:text="Kunj Bihari Jee ki Aarti"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -45,7 +50,7 @@
             android:text="Laxhmi Mata Ki Aarti"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/LaxhmiMaaAarti" />
+            android:id="@+id/LaxhmiMaaAartiButton" />
         <Button
             android:text="Parvati Mata Ki Aarti"
             android:layout_width="match_parent"
