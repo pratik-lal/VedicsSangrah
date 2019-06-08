@@ -70,7 +70,7 @@ namespace VedicsSangrah
             Button buttonj = FindViewById<Button>(Resource.Id.ParvatiMaaAartiButton);
             buttonj.Click += delegate
             {
-                StartActivity(typeof(ParvatiMaaAarti));
+                StartActivity(typeof(ParvatiJeeAarti));
             };
             Button buttonk = FindViewById<Button>(Resource.Id.RadhaJeeAartiButton);
             buttonk.Click += delegate
@@ -97,7 +97,7 @@ namespace VedicsSangrah
             {
                 StartActivity(typeof(SantoshiMataAarti));
             };
-            Button buttonp = FindViewById<Button>(Resource.Id.SaraswatiChalisaButton);
+            Button buttonp = FindViewById<Button>(Resource.Id.SaraswatiPrarthnaButton);
             buttonp.Click += delegate
             {
                 StartActivity(typeof(SaraswatiPrarthna));
@@ -118,7 +118,7 @@ namespace VedicsSangrah
                 StartActivity(typeof(ShaniDevJeeAarti));
             };
             Button buttont = FindViewById<Button>(Resource.Id.ShivJeeAartiButton);
-            buttons.Click += delegate
+            buttont.Click += delegate
             {
                 StartActivity(typeof(ShivJeeAarti));
             };

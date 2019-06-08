@@ -23,7 +23,7 @@ namespace VedicsSangrah
 
             // Create your application here
             SetContentView(Resource.Layout.HanumanJeeAarti);
-            HanumanJeeAartiWebview = FindViewById<WebView>(Resource.Id.HanumanChalisawWebView1);
+            HanumanJeeAartiWebview = FindViewById<WebView>(Resource.Id.HanumanJeeAartiwebView1);
             HanumanJeeAartiWebview.SetWebViewClient(new WebViewClient());
             HanumanJeeAartiWebview.Settings.JavaScriptEnabled = true;
             HanumanJeeAartiWebview.LoadUrl("file:///android_asset/aarti/HanumanJeeAarti.htm");

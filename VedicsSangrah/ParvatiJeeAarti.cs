@@ -13,8 +13,8 @@ using Android.Webkit;
 
 namespace VedicsSangrah
 {
-    [Activity(Label = "ParvatiMaaAarti")]
-    public class ParvatiMaaAarti : Activity
+    [Activity(Label = "ParvatiJeeAarti")]
+    public class ParvatiJeeAarti : Activity
     {
         WebView ParvatiMaaAartiWebView;
         protected override void OnCreate(Bundle savedInstanceState)

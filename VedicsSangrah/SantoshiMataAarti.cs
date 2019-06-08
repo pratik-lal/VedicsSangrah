@@ -23,7 +23,7 @@ namespace VedicsSangrah
 
             // Create your application here
             SetContentView(Resource.Layout.SantoshiMataAarti);
-            SantoshiMataWebView = FindViewById<WebView>(Resource.Id.SantoshiMaaChalisawebView1);
+            SantoshiMataWebView = FindViewById<WebView>(Resource.Id.SantoshiMataAartiwebView1);
             SantoshiMataWebView.SetWebViewClient(new WebViewClient());
             SantoshiMataWebView.Settings.JavaScriptEnabled = true;
             SantoshiMataWebView.LoadUrl("file:///android_asset/aarti/SantoshiMataAarti.htm");

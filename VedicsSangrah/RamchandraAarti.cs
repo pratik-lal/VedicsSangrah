@@ -23,7 +23,7 @@ namespace VedicsSangrah
 
             // Create your application here
             SetContentView(Resource.Layout.RamChandraAarti);
-            RamchandraWebView = FindViewById<WebView>(Resource.Id.RamChalisawebView1);
+            RamchandraWebView = FindViewById<WebView>(Resource.Id.RamchandraAartiwebView1);
             RamchandraWebView.SetWebViewClient(new WebViewClient());
             RamchandraWebView.Settings.JavaScriptEnabled = true;
             RamchandraWebView.LoadUrl("file:///android_asset/aarti/RamchandraAarti.htm");

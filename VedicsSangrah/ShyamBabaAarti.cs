@@ -23,7 +23,7 @@ namespace VedicsSangrah
 
             // Create your application here
             SetContentView(Resource.Layout.ShyamBabaAarti);
-            ShyamBabaAartiWwebView = FindViewById<WebView>(Resource.Id.ShaniDevJeeAartiwebView1);
+            ShyamBabaAartiWwebView = FindViewById<WebView>(Resource.Id.ShyamBabaAartiwebView1);
             ShyamBabaAartiWwebView.SetWebViewClient(new WebViewClient());
             ShyamBabaAartiWwebView.Settings.JavaScriptEnabled = true;
             ShyamBabaAartiWwebView.LoadUrl("file:///android_asset/aarti/ShyamBabaAarti.htm");

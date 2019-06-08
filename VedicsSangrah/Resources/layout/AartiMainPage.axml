@@ -122,11 +122,6 @@
             android:layout_height="wrap_content"
             android:id="@+id/VishnuJeeAartiButton" />
         <Button
-            android:text="SARASWATI CHALISA"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/SaraswatiChalisaButton" />
-        <Button
             android:text="Vrihaspati Dev Ki Aarti"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

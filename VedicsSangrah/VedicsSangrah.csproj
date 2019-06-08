@@ -428,9 +428,6 @@
     <AndroidAsset Include="Assets\aarti\RaniSatiJeeAarti.htm" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\aarti\SaiBabaAarti.htm" />
-  </ItemGroup>
-  <ItemGroup>
     <AndroidAsset Include="Assets\aarti\SantoshiMataAarti.htm" />
   </ItemGroup>
   <ItemGroup>
@@ -459,6 +456,66 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\aarti\VrihaspatiDevAarti.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\aarti\SaiBabaKiAarti.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\Achyutashtakam.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\dwadasa_jyotirlingam.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\Hari_stotram.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\Himaykrit_shiv_stotram.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\lingashtakam.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\madhurashtakam.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\ram_raksha_stotram.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\Rudrastakam.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\Sankat Nashak Ganesh Stotram.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\shiva_panchakshara_stotram.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\shivaaparaadha_kshamapan_stotram.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\ShivShakti Kritam Ganesh Stotram.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\ShivTandav Stotram.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\Shree Shivashtakam.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\Shri_hari_namm_mala_strotra.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\shri_mrityunjaya_stotram.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\ShrIgovindadAmodarastotra.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\VishnuAshtaVimsathiNamaStotram.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\VishnuShatanamaStotram.htm" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

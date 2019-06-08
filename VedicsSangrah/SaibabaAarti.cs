@@ -26,7 +26,7 @@ namespace VedicsSangrah
             SaibabaAartiWebView = FindViewById<WebView>(Resource.Id.SaibabaAartiwebView1);
             SaibabaAartiWebView.SetWebViewClient(new WebViewClient());
             SaibabaAartiWebView.Settings.JavaScriptEnabled = true;
-            SaibabaAartiWebView.LoadUrl("file:///andorid_asset/aarti/SaiBabaAarti.htm");
+            SaibabaAartiWebView.LoadUrl("file:///android_asset/aarti/SaiBabaKiAarti.htm");
         }
     }
 }
