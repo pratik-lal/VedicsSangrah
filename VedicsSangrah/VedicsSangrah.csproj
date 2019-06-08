@@ -16,8 +16,8 @@
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
     <AndroidResgenClass>Resource</AndroidResgenClass>
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
+    <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
+    <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
@@ -30,9 +30,9 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <AndroidUseSharedRuntime>True</AndroidUseSharedRuntime>
+    <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
     <AndroidLinkMode>None</AndroidLinkMode>
-    <EmbedAssembliesIntoApk>False</EmbedAssembliesIntoApk>
+    <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>True</DebugSymbols>
@@ -55,8 +55,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AartiSangrahcs.cs" />
+    <Compile Include="Aashtalaxmistotra.cs" />
+    <Compile Include="AchyutashtakamStotram.cs" />
+    <Compile Include="AdityahRidayastotra.cs" />
     <Compile Include="AnnapurnaAarti.cs" />
     <Compile Include="AnnapurnaChalisaa.cs" />
+    <Compile Include="Dwadasa_jyotirlingam.cs" />
+    <Compile Include="Eksloki_sundarkand.cs" />
     <Compile Include="ParvatiJeeAarti.cs" />
     <Compile Include="SatyaNarayanJeeAarti.cs" />
     <Compile Include="BhairavChalisa.cs" />
@@ -104,6 +109,7 @@
     <Compile Include="ShivJeeAarti.cs" />
     <Compile Include="ShreeShaniDevChalisa.cs" />
     <Compile Include="ShyamBabaAarti.cs" />
+    <Compile Include="StotraSangrah.cs" />
     <Compile Include="SuryaChalisa.cs" />
     <Compile Include="SuryaDevAarti.cs" />
     <Compile Include="TulsiChalisa.cs" />
@@ -281,6 +287,24 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\VrihaspatiDevAarti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\StotraSangrah.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\AchyutashtakamStotram.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\AdityahRidayastotra.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Ashtalaxmistotra.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\dwadasa_jyotirlingam.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Eksloki_sundarkand.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
@@ -516,6 +540,48 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\stotram\VishnuShatanamaStotram.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\AdityahRidayastotra.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\ashtalaxmistotra.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\eksloki_sundarkand.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\ram_stuti.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\sarasvatIstotram.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\shree_durga_saptsloki.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\shrI_gaurI_ashtottara_namavali_108_names.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\shri_gayatri_kavacham.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\shri_krishnastakam.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\ShriRadhaAshtakam.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\katha\sundarkand.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\SuryashTakam.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\stotram\vindhyeshvarIstotram.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\katha\vrihaspativar_vrat_katha.htm" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

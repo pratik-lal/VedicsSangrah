@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:text="AchyutAshtakam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Achyutashtakam" />
+        <Button
+            android:text="Aditya Hridaya Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/AdityaHridayaStotram" />
+        <Button
+            android:text="Ashta Lakshmi Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/AshtaLakshmiStotram" />
+        <Button
+            android:text="Dwadash Jyotir Lingam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/DwadashJyotirLingam" />
+        <Button
+            android:text="Ek Shloki Sundarkand"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/EkShlokiSundarkand" />
+        <Button
+            android:text="Hari Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/HariStotram" />
+        <Button
+            android:text="Himalaykrit Shiv Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/HimalaykritShivStotram" />
+        <Button
+            android:text="Lingastakam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Lingastakam" />
+        <Button
+            android:text="Madhurastakam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Madhurastakam" />
+        <Button
+            android:text="Ram Raksha Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/RamRakshaStotram" />
+        <Button
+            android:text="Ram Stuti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/RamStuti" />
+        <Button
+            android:text="Rudrastakam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Rudrastakam" />
+        <Button
+            android:text="Sankat Nashak Ganesh Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SankatNashakGaneshStotram" />
+        <Button
+            android:text="Saraswati Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SaraswatiStotram" />
+        <Button
+            android:text="Shiva Panchakshara Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ShivaPanchaksharaStotram" />
+        <Button
+            android:text="Shiva Apradh Kshamapan Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ShivaApradhKshamapanStotram" />
+        <Button
+            android:text="Shiva Shakti Kritam Ganesh Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ShivaShaktiKritamGaneshStotram" />
+        <Button
+            android:text="Shiva Tandav Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ShivaTandavStotram" />
+        <Button
+            android:text="Shiva Ashtakam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ShivaAshtakam" />
+        <Button
+            android:text="Durga Saptsloki"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/DurgaSaptsloki" />
+        <Button
+            android:text="Gauri Ashtotra (108) Namavali"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/GauriAshtotraNamavali" />
+        <Button
+            android:text="Gayatri Kavacham"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/GayatriKavacham" />
+        <Button
+            android:text="Hari Naam Mala Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/HariNaamMalaStotram" />
+        <Button
+            android:text="Krishna Ashtakam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/KrishnaAshtakam" />
+        <Button
+            android:text="Maha Mritunjay Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/MahaMritunjayStotram" />
+        <Button
+            android:text="Govind Damodar Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/GovindDamodarStotram" />
+        <Button
+            android:text="Radha Ashtakam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/RadhaAshtakam" />
+        <Button
+            android:text="Surya Ashtakam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SuryaAshtakam" />
+        <Button
+            android:text="Vindhyeshwari Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/VindhyeshwariStotram" />
+        <Button
+            android:text="Vishnor Ashta Vinshati Naam Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/VishnorAshtaVinshatiNaamStotram" />
+        <Button
+            android:text="Vishno Shatnaam Stotram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/VishnoShatnaamStotram" />
+    </LinearLayout>
+</ScrollView>

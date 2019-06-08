@@ -23,7 +23,12 @@ namespace VedicsSangrah
             {
                 StartActivity(typeof(AartiSangrahcs));
             };
-
+            Button button3 = FindViewById<Button>(Resource.Id.StotraSangrahButton);
+            button3.Click += delegate
+            {
+                StartActivity(typeof(StotraSangrah));
+            };
+        
         }
     }
 }
