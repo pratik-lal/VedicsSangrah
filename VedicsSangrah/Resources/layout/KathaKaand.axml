@@ -1,68 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:minWidth="25px"
-    android:minHeight="25px">
-    <Button
-        android:text="Somvar Vrat Katha"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/SomvarVratKathaButton" />
-    <Button
-        android:text="Mangalvar Vrat Katha"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/MangalvarKathaButton" />
-    <Button
-        android:text="Budhvar Vrat Katha"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/BudhvarVratKathaButton" />
-    <Button
-        android:text="Vrihaspativar Vrat Katha"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/VrihaspatiVarKathaButton" />
+        android:layout_height="match_parent">
         <Button
-        android:text="Shukravar Vrat Katha"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/ShukraVarVratKathaButton" />
-    <Button
-        android:text="Shanivar Vrat Katha"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/ShanivarVratKathaButton" />
-    <Button
-        android:text="Ravivar Vrat Katha"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/RavivarVratKathaButton" />
-    <Button
-        android:text="Sundar Kand"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/SundarKandButton" />  
-    <Button
-        android:text="Janmastami Katha"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/JanmastamiKathaButton" /> 
-    <Button
-        android:text="Maha Shivratri Katha"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/MahaShivratriKathaButton" />
-    <Button
-        android:text="Chhath Katha"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/ChhathKathaButton" />
-    <Button
-        android:text="Chitragupta Vrat Katha"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/ChitraguptaKathaButton" />
-</LinearLayout>
+            android:text="Somvar Vrat Katha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SomvarVratKathaButton" />
+        <Button
+            android:text="Mangalvar Vrat Katha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/MangalvarKathaButton" />
+        <Button
+            android:text="Budhvar Vrat Katha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/BudhvarVratKathaButton" />
+        <Button
+            android:text="Vrihaspativar Vrat Katha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/VrihaspatiVarKathaButton" />
+        <Button
+            android:text="Shukravar Vrat Katha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ShukraVarVratKathaButton" />
+        <Button
+            android:text="Shanivar Vrat Katha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ShanivarVratKathaButton" />
+        <Button
+            android:text="Ravivar Vrat Katha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/RavivarVratKathaButton" />
+        <Button
+            android:text="Sundar Kand"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/SundarKandButton" />
+        <Button
+            android:text="Janmastami Katha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/JanmastamiKathaButton" />
+        <Button
+            android:text="Maha Shivratri Katha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/MahaShivratriKathaButton" />
+        <Button
+            android:text="Chhath Katha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ChhathKathaButton" />
+        <Button
+            android:text="Chitragupta Vrat Katha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ChitraguptaKathaButton" />
+    </LinearLayout>
+</ScrollView>
