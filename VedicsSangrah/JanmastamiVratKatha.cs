@@ -26,7 +26,7 @@ namespace VedicsSangrah
             JanmastamiVratKathaWebView = FindViewById<WebView>(Resource.Id.JanmastamiVratKathawebView1);
             JanmastamiVratKathaWebView.SetWebViewClient(new WebViewClient());
             JanmastamiVratKathaWebView.Settings.JavaScriptEnabled = true;
-            JanmastamiVratKathaWebView.LoadUrl("file:///android_asset/katha/JanmastamiKatha.htm");
+            JanmastamiVratKathaWebView.LoadUrl("file:///android_asset/katha/sundarkand.htm");
         }
     }
 }

@@ -60,9 +60,16 @@
     <Compile Include="AdityahRidayastotra.cs" />
     <Compile Include="AnnapurnaAarti.cs" />
     <Compile Include="AnnapurnaChalisaa.cs" />
+    <Compile Include="BudhwarVratKatha.cs" />
+    <Compile Include="ChhathVratKatha.cs" />
+    <Compile Include="ChitraguptaPujaKatha.cs" />
     <Compile Include="Dwadasa_jyotirlingam.cs" />
     <Compile Include="Eksloki_sundarkand.cs" />
+    <Compile Include="JanmastamiVratKatha.cs" />
+    <Compile Include="KathaKaand.cs" />
+    <Compile Include="MangalwarVratKatha.cs" />
     <Compile Include="ParvatiJeeAarti.cs" />
+    <Compile Include="RavivarVratKatha.cs" />
     <Compile Include="SatyaNarayanJeeAarti.cs" />
     <Compile Include="BhairavChalisa.cs" />
     <Compile Include="BramhaChalisa.cs" />
@@ -104,11 +111,14 @@
     <Compile Include="SaraswatiPrarthna.cs" />
     <Compile Include="SeetaJeeAarti.cs" />
     <Compile Include="ShaniDevJeeAarti.cs" />
+    <Compile Include="ShanivarVratKatha.cs" />
     <Compile Include="SheetlaChalisa.cs" />
     <Compile Include="ShivChalisa.cs" />
     <Compile Include="ShivJeeAarti.cs" />
     <Compile Include="ShreeShaniDevChalisa.cs" />
+    <Compile Include="ShukravarVratKatha.cs" />
     <Compile Include="ShyamBabaAarti.cs" />
+    <Compile Include="SomvarVratKatha.cs" />
     <Compile Include="StotraSangrah.cs" />
     <Compile Include="SuryaChalisa.cs" />
     <Compile Include="SuryaDevAarti.cs" />
@@ -118,6 +128,7 @@
     <Compile Include="VishnuChalisa.cs" />
     <Compile Include="VishnuJeeAarti.cs" />
     <Compile Include="VrihaspatiDevAarti.cs" />
+    <Compile Include="VrihaspativarVratKatha.cs" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\AnnapurnaAarti.axml">
@@ -308,6 +319,36 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\KathaKaand.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\SomvarVratKatha.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\MangalwarVratKatha.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\BudhwarVratKatha.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\VrihaspativarVratKatha.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ShukravarVratKatha.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ShanikvarVratKatha.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\RavivarVratKatha.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ChhathVratKatha.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ChitraguptaPujaKatha.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\JanmastamiVratKatha.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
@@ -585,6 +626,39 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\katha\vrihaspativar_vrat_katha.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\katha\BuddhvaarVratKatha.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\katha\ChhathVratKatha.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\katha\ChitraguptPujatKatha.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\katha\JanmastamiKatha.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\katha\KarvaChauthKatha.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\katha\MahaShivratriKatha.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\katha\MangalvaarVratKatha.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\katha\RavivaarVratKatha.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\katha\ShanivaarVratKatha.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\katha\ShukravaarSantoshiMataVratKatha.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\katha\SomvaarVratKatha.htm" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
