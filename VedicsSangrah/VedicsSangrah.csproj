@@ -65,11 +65,21 @@
     <Compile Include="ChitraguptaPujaKatha.cs" />
     <Compile Include="Dwadasa_jyotirlingam.cs" />
     <Compile Include="Eksloki_sundarkand.cs" />
+    <Compile Include="HariStotram.cs" />
+    <Compile Include="HimalayakritShivStotram.cs" />
     <Compile Include="JanmastamiVratKatha.cs" />
+    <Compile Include="KarwaChauthKatha.cs" />
     <Compile Include="KathaKaand.cs" />
+    <Compile Include="Lingastakam.cs" />
+    <Compile Include="Madhurastakam.cs" />
+    <Compile Include="MahaShivratriKatha.cs" />
     <Compile Include="MangalwarVratKatha.cs" />
     <Compile Include="ParvatiJeeAarti.cs" />
+    <Compile Include="RamRakshaStotram.cs" />
+    <Compile Include="RamStuti.cs" />
     <Compile Include="RavivarVratKatha.cs" />
+    <Compile Include="Rudrastakam.cs" />
+    <Compile Include="SankatNashakGaneshStotram.cs" />
     <Compile Include="SatyaNarayanJeeAarti.cs" />
     <Compile Include="BhairavChalisa.cs" />
     <Compile Include="BramhaChalisa.cs" />
@@ -120,6 +130,7 @@
     <Compile Include="ShyamBabaAarti.cs" />
     <Compile Include="SomvarVratKatha.cs" />
     <Compile Include="StotraSangrah.cs" />
+    <Compile Include="Sundarkand.cs" />
     <Compile Include="SuryaChalisa.cs" />
     <Compile Include="SuryaDevAarti.cs" />
     <Compile Include="TulsiChalisa.cs" />
@@ -351,6 +362,39 @@
     <AndroidResource Include="Resources\layout\JanmastamiVratKatha.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
+    <AndroidResource Include="Resources\layout\KarwaChauthKatha.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\MahaSivratriKatha.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Sundarkaand.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\HariStotram.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\HimalayakritShivStotram.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Lingastakam.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Madhurastakam.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\RamRakshaStotram.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\RamStuti.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Rudrastakam.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\SankatNashakGaneshStotram.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml">
@@ -553,7 +597,7 @@
     <AndroidAsset Include="Assets\stotram\Rudrastakam.htm" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\stotram\Sankat Nashak Ganesh Stotram.htm" />
+    <AndroidAsset Include="Assets\stotram\SankatNashakGaneshStotram.htm" />
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\stotram\shiva_panchakshara_stotram.htm" />
