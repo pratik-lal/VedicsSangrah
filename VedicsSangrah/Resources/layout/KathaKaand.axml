@@ -66,5 +66,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/ChitraguptaKathaButton" />
+        <Button
+            android:text="Karwa Chauth Katha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/KarwaChauthKathaButton" />
     </LinearLayout>
 </ScrollView>

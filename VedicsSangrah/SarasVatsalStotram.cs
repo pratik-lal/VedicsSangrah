@@ -24,7 +24,7 @@ namespace VedicsSangrah
             // Create your application here
             SetContentView(Resource.Layout.SarasVatsalStotram);
             SaraswatiStotramWebView = FindViewById<WebView>(Resource.Id.SaraswatiStotramwebView1);
-            SaraswatiStotramWebView.SetWebViewClient(new WebViewClient);
+            SaraswatiStotramWebView.SetWebViewClient(new WebViewClient());
             SaraswatiStotramWebView.Settings.JavaScriptEnabled = true;
             SaraswatiStotramWebView.LoadUrl("file:///android_asset/stotram/sarasvatIstotram.htm");
         }

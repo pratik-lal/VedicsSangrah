@@ -44,20 +44,20 @@ namespace VedicsSangrah
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f04006a
-			public const int AartiSangrahButton = 2130968682;
+			// aapt resource value: 0x7f04006b
+			public const int AartiSangrahButton = 2130968683;
 			
 			// aapt resource value: 0x7f04001c
 			public const int AashtalaxmistotrawebView1 = 2130968604;
 			
-			// aapt resource value: 0x7f040099
-			public const int Achyutashtakam = 2130968729;
+			// aapt resource value: 0x7f04009a
+			public const int Achyutashtakam = 2130968730;
 			
 			// aapt resource value: 0x7f040018
 			public const int AchyutashtakamStotramwebView1 = 2130968600;
 			
-			// aapt resource value: 0x7f04009a
-			public const int AdityaHridayaStotram = 2130968730;
+			// aapt resource value: 0x7f04009b
+			public const int AdityaHridayaStotram = 2130968731;
 			
 			// aapt resource value: 0x7f040019
 			public const int AdityahRidayastotrawebView1 = 2130968601;
@@ -74,8 +74,8 @@ namespace VedicsSangrah
 			// aapt resource value: 0x7f04001b
 			public const int AnnapurnaChalisawebView1 = 2130968603;
 			
-			// aapt resource value: 0x7f04009b
-			public const int AshtaLakshmiStotram = 2130968731;
+			// aapt resource value: 0x7f04009c
+			public const int AshtaLakshmiStotram = 2130968732;
 			
 			// aapt resource value: 0x7f04001d
 			public const int AshtaVimsathiVishniNamaStotramwebView1 = 2130968605;
@@ -98,8 +98,8 @@ namespace VedicsSangrah
 			// aapt resource value: 0x7f040020
 			public const int BudhwarVratKathawebView1 = 2130968608;
 			
-			// aapt resource value: 0x7f040069
-			public const int ChalisaSangrahButton = 2130968681;
+			// aapt resource value: 0x7f04006a
+			public const int ChalisaSangrahButton = 2130968682;
 			
 			// aapt resource value: 0x7f040001
 			public const int ChamundaDeviAartiButton = 2130968577;
@@ -131,14 +131,14 @@ namespace VedicsSangrah
 			// aapt resource value: 0x7f040042
 			public const int DurgaChalisawebView1 = 2130968642;
 			
-			// aapt resource value: 0x7f0400ac
-			public const int DurgaSaptsloki = 2130968748;
-			
-			// aapt resource value: 0x7f04009c
-			public const int DwadashJyotirLingam = 2130968732;
+			// aapt resource value: 0x7f0400ad
+			public const int DurgaSaptsloki = 2130968749;
 			
 			// aapt resource value: 0x7f04009d
-			public const int EkShlokiSundarkand = 2130968733;
+			public const int DwadashJyotirLingam = 2130968733;
+			
+			// aapt resource value: 0x7f04009e
+			public const int EkShlokiSundarkand = 2130968734;
 			
 			// aapt resource value: 0x7f040002
 			public const int GaneshAartiButton = 2130968578;
@@ -152,8 +152,8 @@ namespace VedicsSangrah
 			// aapt resource value: 0x7f040046
 			public const int GaneshChalisaWebView1 = 2130968646;
 			
-			// aapt resource value: 0x7f0400ad
-			public const int GauriAshtotraNamavali = 2130968749;
+			// aapt resource value: 0x7f0400ae
+			public const int GauriAshtotraNamavali = 2130968750;
 			
 			// aapt resource value: 0x7f040003
 			public const int GayatriAartiButton = 2130968579;
@@ -164,14 +164,14 @@ namespace VedicsSangrah
 			// aapt resource value: 0x7f040047
 			public const int GayatriChalisawebView1 = 2130968647;
 			
-			// aapt resource value: 0x7f0400ae
-			public const int GayatriKavacham = 2130968750;
+			// aapt resource value: 0x7f0400af
+			public const int GayatriKavacham = 2130968751;
 			
 			// aapt resource value: 0x7f040048
 			public const int GayatriMataAartiwebView1 = 2130968648;
 			
-			// aapt resource value: 0x7f0400b2
-			public const int GovindDamodarStotram = 2130968754;
+			// aapt resource value: 0x7f0400b3
+			public const int GovindDamodarStotram = 2130968755;
 			
 			// aapt resource value: 0x7f040004
 			public const int HanumanAartiaButton = 2130968580;
@@ -185,11 +185,11 @@ namespace VedicsSangrah
 			// aapt resource value: 0x7f040049
 			public const int HanumanJeeAartiwebView1 = 2130968649;
 			
-			// aapt resource value: 0x7f0400af
-			public const int HariNaamMalaStotram = 2130968751;
+			// aapt resource value: 0x7f0400b0
+			public const int HariNaamMalaStotram = 2130968752;
 			
-			// aapt resource value: 0x7f04009e
-			public const int HariStotram = 2130968734;
+			// aapt resource value: 0x7f04009f
+			public const int HariStotram = 2130968735;
 			
 			// aapt resource value: 0x7f04004b
 			public const int HariStotramwebView1 = 2130968651;
@@ -197,8 +197,8 @@ namespace VedicsSangrah
 			// aapt resource value: 0x7f04004c
 			public const int HimalayakritShivStotramwebView1 = 2130968652;
 			
-			// aapt resource value: 0x7f04009f
-			public const int HimalaykritShivStotram = 2130968735;
+			// aapt resource value: 0x7f0400a0
+			public const int HimalaykritShivStotram = 2130968736;
 			
 			// aapt resource value: 0x7f040059
 			public const int JanmastamiKathaButton = 2130968665;
@@ -218,170 +218,173 @@ namespace VedicsSangrah
 			// aapt resource value: 0x7f04004f
 			public const int KaliMaaChalisawebView1 = 2130968655;
 			
+			// aapt resource value: 0x7f04005d
+			public const int KarwaChauthKathaButton = 2130968669;
+			
 			// aapt resource value: 0x7f040050
 			public const int KarwaChauthKathawebView1 = 2130968656;
 			
-			// aapt resource value: 0x7f04006c
-			public const int KathaKandSangrahButton = 2130968684;
+			// aapt resource value: 0x7f04006d
+			public const int KathaKandSangrahButton = 2130968685;
 			
 			// aapt resource value: 0x7f04002c
 			public const int KhatuShyamChalisaButton = 2130968620;
 			
-			// aapt resource value: 0x7f04005d
-			public const int KhatuShyamChalisawebView1 = 2130968669;
+			// aapt resource value: 0x7f04005e
+			public const int KhatuShyamChalisawebView1 = 2130968670;
 			
 			// aapt resource value: 0x7f040006
 			public const int KrishnaAartiButton = 2130968582;
 			
-			// aapt resource value: 0x7f04005e
-			public const int KrishnaAartiwebView1 = 2130968670;
-			
-			// aapt resource value: 0x7f0400b0
-			public const int KrishnaAshtakam = 2130968752;
-			
 			// aapt resource value: 0x7f04005f
-			public const int KrishnaAshtakamwebView1 = 2130968671;
+			public const int KrishnaAartiwebView1 = 2130968671;
+			
+			// aapt resource value: 0x7f0400b1
+			public const int KrishnaAshtakam = 2130968753;
+			
+			// aapt resource value: 0x7f040060
+			public const int KrishnaAshtakamwebView1 = 2130968672;
 			
 			// aapt resource value: 0x7f040024
 			public const int KrishnaChalisaButton = 2130968612;
 			
-			// aapt resource value: 0x7f040060
-			public const int KrishnaChalisaWebView1 = 2130968672;
+			// aapt resource value: 0x7f040061
+			public const int KrishnaChalisaWebView1 = 2130968673;
 			
 			// aapt resource value: 0x7f04002d
 			public const int KuberChalisaButton = 2130968621;
 			
-			// aapt resource value: 0x7f040061
-			public const int KuberChalisawebView1 = 2130968673;
+			// aapt resource value: 0x7f040062
+			public const int KuberChalisawebView1 = 2130968674;
 			
 			// aapt resource value: 0x7f040007
 			public const int KunjBihariJeeAartiButton = 2130968583;
 			
-			// aapt resource value: 0x7f040062
-			public const int KunjBihariJeeAartiwebView1 = 2130968674;
+			// aapt resource value: 0x7f040063
+			public const int KunjBihariJeeAartiwebView1 = 2130968675;
 			
 			// aapt resource value: 0x7f04002e
 			public const int LakshmiChalisaButton = 2130968622;
 			
-			// aapt resource value: 0x7f040063
-			public const int LakshmiChalisawebView1 = 2130968675;
-			
 			// aapt resource value: 0x7f040064
-			public const int LakshmiMaaAartiwebView1 = 2130968676;
+			public const int LakshmiChalisawebView1 = 2130968676;
+			
+			// aapt resource value: 0x7f040065
+			public const int LakshmiMaaAartiwebView1 = 2130968677;
 			
 			// aapt resource value: 0x7f040008
 			public const int LaxhmiMaaAartiButton = 2130968584;
 			
-			// aapt resource value: 0x7f0400a0
-			public const int Lingastakam = 2130968736;
-			
-			// aapt resource value: 0x7f040065
-			public const int LingastakamwebView1 = 2130968677;
-			
 			// aapt resource value: 0x7f0400a1
-			public const int Madhurastakam = 2130968737;
+			public const int Lingastakam = 2130968737;
 			
 			// aapt resource value: 0x7f040066
-			public const int MadhurastakamwebView1 = 2130968678;
+			public const int LingastakamwebView1 = 2130968678;
+			
+			// aapt resource value: 0x7f0400a2
+			public const int Madhurastakam = 2130968738;
+			
+			// aapt resource value: 0x7f040067
+			public const int MadhurastakamwebView1 = 2130968679;
 			
 			// aapt resource value: 0x7f04002f
 			public const int MahaKaliMaaChalisaButton = 2130968623;
 			
-			// aapt resource value: 0x7f040067
-			public const int MahaKaliMaaChalisawebView1 = 2130968679;
+			// aapt resource value: 0x7f040068
+			public const int MahaKaliMaaChalisawebView1 = 2130968680;
 			
-			// aapt resource value: 0x7f0400b1
-			public const int MahaMritunjayStotram = 2130968753;
+			// aapt resource value: 0x7f0400b2
+			public const int MahaMritunjayStotram = 2130968754;
 			
 			// aapt resource value: 0x7f04005a
 			public const int MahaShivratriKathaButton = 2130968666;
 			
-			// aapt resource value: 0x7f040068
-			public const int MahaShivratriKathawebView1 = 2130968680;
+			// aapt resource value: 0x7f040069
+			public const int MahaShivratriKathawebView1 = 2130968681;
 			
 			// aapt resource value: 0x7f040052
 			public const int MangalvarKathaButton = 2130968658;
 			
-			// aapt resource value: 0x7f04006d
-			public const int MangalwarVratKathawebView1 = 2130968685;
+			// aapt resource value: 0x7f04006e
+			public const int MangalwarVratKathawebView1 = 2130968686;
 			
 			// aapt resource value: 0x7f04000c
 			public const int MataRaniSatiAartiButton = 2130968588;
 			
-			// aapt resource value: 0x7f04006e
-			public const int MrituanjayStotramwebView1 = 2130968686;
+			// aapt resource value: 0x7f04006f
+			public const int MrituanjayStotramwebView1 = 2130968687;
 			
 			// aapt resource value: 0x7f040030
 			public const int NavgrahChalisaButton = 2130968624;
 			
-			// aapt resource value: 0x7f04006f
-			public const int NavgrahChalisawebView1 = 2130968687;
+			// aapt resource value: 0x7f040070
+			public const int NavgrahChalisawebView1 = 2130968688;
 			
 			// aapt resource value: 0x7f040031
 			public const int ParvatiChalisaButton = 2130968625;
 			
-			// aapt resource value: 0x7f040070
-			public const int ParvatiChalisawebView1 = 2130968688;
+			// aapt resource value: 0x7f040071
+			public const int ParvatiChalisawebView1 = 2130968689;
 			
 			// aapt resource value: 0x7f040009
 			public const int ParvatiMaaAartiButton = 2130968585;
 			
-			// aapt resource value: 0x7f040071
-			public const int ParvatiMaaAartiwebView1 = 2130968689;
+			// aapt resource value: 0x7f040072
+			public const int ParvatiMaaAartiwebView1 = 2130968690;
 			
-			// aapt resource value: 0x7f0400b3
-			public const int RadhaAshtakam = 2130968755;
+			// aapt resource value: 0x7f0400b4
+			public const int RadhaAshtakam = 2130968756;
 			
 			// aapt resource value: 0x7f040032
 			public const int RadhaChalisaButton = 2130968626;
 			
-			// aapt resource value: 0x7f040072
-			public const int RadhaChalisawebView1 = 2130968690;
+			// aapt resource value: 0x7f040073
+			public const int RadhaChalisawebView1 = 2130968691;
 			
 			// aapt resource value: 0x7f04000a
 			public const int RadhaJeeAartiButton = 2130968586;
 			
-			// aapt resource value: 0x7f040073
-			public const int RadhaJeeAartiwebView1 = 2130968691;
+			// aapt resource value: 0x7f040074
+			public const int RadhaJeeAartiwebView1 = 2130968692;
 			
 			// aapt resource value: 0x7f040033
 			public const int RamChalisaButton = 2130968627;
 			
-			// aapt resource value: 0x7f040074
-			public const int RamChalisawebView1 = 2130968692;
-			
-			// aapt resource value: 0x7f0400a2
-			public const int RamRakshaStotram = 2130968738;
-			
-			// aapt resource value: 0x7f040076
-			public const int RamRakshaStotramwebView1 = 2130968694;
+			// aapt resource value: 0x7f040075
+			public const int RamChalisawebView1 = 2130968693;
 			
 			// aapt resource value: 0x7f0400a3
-			public const int RamStuti = 2130968739;
+			public const int RamRakshaStotram = 2130968739;
 			
 			// aapt resource value: 0x7f040077
-			public const int RamStutiwebView1 = 2130968695;
+			public const int RamRakshaStotramwebView1 = 2130968695;
 			
-			// aapt resource value: 0x7f040075
-			public const int RamchandraAartiwebView1 = 2130968693;
+			// aapt resource value: 0x7f0400a4
+			public const int RamStuti = 2130968740;
+			
+			// aapt resource value: 0x7f040078
+			public const int RamStutiwebView1 = 2130968696;
+			
+			// aapt resource value: 0x7f040076
+			public const int RamchandraAartiwebView1 = 2130968694;
 			
 			// aapt resource value: 0x7f04000b
 			public const int RamchandraJeeAartiButton = 2130968587;
 			
-			// aapt resource value: 0x7f040078
-			public const int RaniSatiDeviJeewebView1 = 2130968696;
+			// aapt resource value: 0x7f040079
+			public const int RaniSatiDeviJeewebView1 = 2130968697;
 			
 			// aapt resource value: 0x7f040057
 			public const int RavivarVratKathaButton = 2130968663;
 			
-			// aapt resource value: 0x7f040079
-			public const int RavivarVratKathawebView1 = 2130968697;
-			
-			// aapt resource value: 0x7f0400a4
-			public const int Rudrastakam = 2130968740;
-			
 			// aapt resource value: 0x7f04007a
-			public const int RudrastakamwebView1 = 2130968698;
+			public const int RavivarVratKathawebView1 = 2130968698;
+			
+			// aapt resource value: 0x7f0400a5
+			public const int Rudrastakam = 2130968741;
+			
+			// aapt resource value: 0x7f04007b
+			public const int RudrastakamwebView1 = 2130968699;
 			
 			// aapt resource value: 0x7f04000d
 			public const int SaiBabaAartiButton = 2130968589;
@@ -389,17 +392,17 @@ namespace VedicsSangrah
 			// aapt resource value: 0x7f040034
 			public const int SaiChalisaButton = 2130968628;
 			
-			// aapt resource value: 0x7f04007c
-			public const int SaiChalisawebView1 = 2130968700;
-			
-			// aapt resource value: 0x7f04007b
-			public const int SaibabaAartiwebView1 = 2130968699;
-			
-			// aapt resource value: 0x7f0400a5
-			public const int SankatNashakGaneshStotram = 2130968741;
-			
 			// aapt resource value: 0x7f04007d
-			public const int SankatNashakGaneshStotramwebView1 = 2130968701;
+			public const int SaiChalisawebView1 = 2130968701;
+			
+			// aapt resource value: 0x7f04007c
+			public const int SaibabaAartiwebView1 = 2130968700;
+			
+			// aapt resource value: 0x7f0400a6
+			public const int SankatNashakGaneshStotram = 2130968742;
+			
+			// aapt resource value: 0x7f04007e
+			public const int SankatNashakGaneshStotramwebView1 = 2130968702;
 			
 			// aapt resource value: 0x7f04000e
 			public const int SantoshiMaaAartiButton = 2130968590;
@@ -407,38 +410,38 @@ namespace VedicsSangrah
 			// aapt resource value: 0x7f040035
 			public const int SantoshiMaaChalisaButton = 2130968629;
 			
-			// aapt resource value: 0x7f04007e
-			public const int SantoshiMaaChalisawebView1 = 2130968702;
-			
 			// aapt resource value: 0x7f04007f
-			public const int SantoshiMataAartiwebView1 = 2130968703;
+			public const int SantoshiMaaChalisawebView1 = 2130968703;
+			
+			// aapt resource value: 0x7f040080
+			public const int SantoshiMataAartiwebView1 = 2130968704;
 			
 			// aapt resource value: 0x7f040037
 			public const int SaraswatiChalisaButton = 2130968631;
 			
-			// aapt resource value: 0x7f040081
-			public const int SaraswatiChalisawebView1 = 2130968705;
+			// aapt resource value: 0x7f040082
+			public const int SaraswatiChalisawebView1 = 2130968706;
 			
 			// aapt resource value: 0x7f04000f
 			public const int SaraswatiPrarthnaButton = 2130968591;
 			
-			// aapt resource value: 0x7f040082
-			public const int SaraswatiPrarthnawebView1 = 2130968706;
+			// aapt resource value: 0x7f040083
+			public const int SaraswatiPrarthnawebView1 = 2130968707;
 			
-			// aapt resource value: 0x7f0400a6
-			public const int SaraswatiStotram = 2130968742;
+			// aapt resource value: 0x7f0400a7
+			public const int SaraswatiStotram = 2130968743;
 			
-			// aapt resource value: 0x7f040080
-			public const int SaraswatiStotramwebView1 = 2130968704;
+			// aapt resource value: 0x7f040081
+			public const int SaraswatiStotramwebView1 = 2130968705;
 			
 			// aapt resource value: 0x7f040010
 			public const int SatyaNarayanJeeAartiButton = 2130968592;
 			
-			// aapt resource value: 0x7f040083
-			public const int SatyaNarayanJeeAartiwebView1 = 2130968707;
-			
 			// aapt resource value: 0x7f040084
-			public const int SeetaJeeAartiwebView1 = 2130968708;
+			public const int SatyaNarayanJeeAartiwebView1 = 2130968708;
+			
+			// aapt resource value: 0x7f040085
+			public const int SeetaJeeAartiwebView1 = 2130968709;
 			
 			// aapt resource value: 0x7f040011
 			public const int SeetaMataAartiButton = 2130968593;
@@ -446,23 +449,23 @@ namespace VedicsSangrah
 			// aapt resource value: 0x7f040012
 			public const int ShaniDevAartiButton = 2130968594;
 			
-			// aapt resource value: 0x7f040085
-			public const int ShaniDevJeeAartiwebView1 = 2130968709;
+			// aapt resource value: 0x7f040086
+			public const int ShaniDevJeeAartiwebView1 = 2130968710;
 			
 			// aapt resource value: 0x7f040056
 			public const int ShanivarVratKathaButton = 2130968662;
 			
-			// aapt resource value: 0x7f040086
-			public const int ShanivarVratKathawebView1 = 2130968710;
+			// aapt resource value: 0x7f040087
+			public const int ShanivarVratKathawebView1 = 2130968711;
 			
 			// aapt resource value: 0x7f040038
 			public const int SheetlaChalisaButton = 2130968632;
 			
-			// aapt resource value: 0x7f040087
-			public const int SheetlaChalisawebView1 = 2130968711;
-			
 			// aapt resource value: 0x7f040088
-			public const int ShivApradhaKshamaPrarthnaStotramwebView1 = 2130968712;
+			public const int SheetlaChalisawebView1 = 2130968712;
+			
+			// aapt resource value: 0x7f040089
+			public const int ShivApradhaKshamaPrarthnaStotramwebView1 = 2130968713;
 			
 			// aapt resource value: 0x7f040023
 			public const int ShivChalisaButton = 2130968611;
@@ -470,164 +473,164 @@ namespace VedicsSangrah
 			// aapt resource value: 0x7f040013
 			public const int ShivJeeAartiButton = 2130968595;
 			
-			// aapt resource value: 0x7f040089
-			public const int ShivJeeAartiwebView1 = 2130968713;
-			
-			// aapt resource value: 0x7f04008b
-			public const int ShivPanchAksharStotramwebView1 = 2130968715;
+			// aapt resource value: 0x7f04008a
+			public const int ShivJeeAartiwebView1 = 2130968714;
 			
 			// aapt resource value: 0x7f04008c
-			public const int ShivShaktiKritamGaneshStotramwebView1 = 2130968716;
+			public const int ShivPanchAksharStotramwebView1 = 2130968716;
 			
 			// aapt resource value: 0x7f04008d
-			public const int ShivTandavStotramwebView1 = 2130968717;
-			
-			// aapt resource value: 0x7f0400a8
-			public const int ShivaApradhKshamapanStotram = 2130968744;
-			
-			// aapt resource value: 0x7f0400ab
-			public const int ShivaAshtakam = 2130968747;
-			
-			// aapt resource value: 0x7f04008a
-			public const int ShivaChalisaWebView1 = 2130968714;
-			
-			// aapt resource value: 0x7f0400a7
-			public const int ShivaPanchaksharaStotram = 2130968743;
-			
-			// aapt resource value: 0x7f0400a9
-			public const int ShivaShaktiKritamGaneshStotram = 2130968745;
-			
-			// aapt resource value: 0x7f0400aa
-			public const int ShivaTandavStotram = 2130968746;
+			public const int ShivShaktiKritamGaneshStotramwebView1 = 2130968717;
 			
 			// aapt resource value: 0x7f04008e
-			public const int ShreeSaptslokiDurgawebView1 = 2130968718;
+			public const int ShivTandavStotramwebView1 = 2130968718;
+			
+			// aapt resource value: 0x7f0400a9
+			public const int ShivaApradhKshamapanStotram = 2130968745;
+			
+			// aapt resource value: 0x7f0400ac
+			public const int ShivaAshtakam = 2130968748;
+			
+			// aapt resource value: 0x7f04008b
+			public const int ShivaChalisaWebView1 = 2130968715;
+			
+			// aapt resource value: 0x7f0400a8
+			public const int ShivaPanchaksharaStotram = 2130968744;
+			
+			// aapt resource value: 0x7f0400aa
+			public const int ShivaShaktiKritamGaneshStotram = 2130968746;
+			
+			// aapt resource value: 0x7f0400ab
+			public const int ShivaTandavStotram = 2130968747;
+			
+			// aapt resource value: 0x7f04008f
+			public const int ShreeSaptslokiDurgawebView1 = 2130968719;
 			
 			// aapt resource value: 0x7f040036
 			public const int ShreeShaniDevChalisaButton = 2130968630;
 			
-			// aapt resource value: 0x7f04008f
-			public const int ShreeShaniDevChalisawebView1 = 2130968719;
-			
 			// aapt resource value: 0x7f040090
-			public const int ShreeShivashtakamwebView1 = 2130968720;
+			public const int ShreeShaniDevChalisawebView1 = 2130968720;
 			
 			// aapt resource value: 0x7f040091
-			public const int ShriGauriAshtottaraNamavaliwebView1 = 2130968721;
+			public const int ShreeShivashtakamwebView1 = 2130968721;
 			
 			// aapt resource value: 0x7f040092
-			public const int ShriGayatriKavachamwebView1 = 2130968722;
+			public const int ShriGauriAshtottaraNamavaliwebView1 = 2130968722;
 			
 			// aapt resource value: 0x7f040093
-			public const int ShriGovindDamodarStotramwebView1 = 2130968723;
+			public const int ShriGayatriKavachamwebView1 = 2130968723;
 			
 			// aapt resource value: 0x7f040094
-			public const int ShriHariNaamMalaStrotramwebView1 = 2130968724;
+			public const int ShriGovindDamodarStotramwebView1 = 2130968724;
 			
 			// aapt resource value: 0x7f040095
-			public const int ShriRadhaAshtakamwebView1 = 2130968725;
+			public const int ShriHariNaamMalaStrotramwebView1 = 2130968725;
+			
+			// aapt resource value: 0x7f040096
+			public const int ShriRadhaAshtakamwebView1 = 2130968726;
 			
 			// aapt resource value: 0x7f040055
 			public const int ShukraVarVratKathaButton = 2130968661;
 			
-			// aapt resource value: 0x7f040096
-			public const int ShukravarVratKathawebView1 = 2130968726;
+			// aapt resource value: 0x7f040097
+			public const int ShukravarVratKathawebView1 = 2130968727;
 			
 			// aapt resource value: 0x7f040014
 			public const int ShyamBabaAartiButton = 2130968596;
 			
-			// aapt resource value: 0x7f040097
-			public const int ShyamBabaAartiwebView1 = 2130968727;
+			// aapt resource value: 0x7f040098
+			public const int ShyamBabaAartiwebView1 = 2130968728;
 			
 			// aapt resource value: 0x7f040051
 			public const int SomvarVratKathaButton = 2130968657;
 			
-			// aapt resource value: 0x7f040098
-			public const int SomvarVratKathawebView1 = 2130968728;
+			// aapt resource value: 0x7f040099
+			public const int SomvarVratKathawebView1 = 2130968729;
 			
-			// aapt resource value: 0x7f04006b
-			public const int StotraSangrahButton = 2130968683;
+			// aapt resource value: 0x7f04006c
+			public const int StotraSangrahButton = 2130968684;
 			
-			// aapt resource value: 0x7f0400b8
-			public const int SundarKaandwebView1 = 2130968760;
+			// aapt resource value: 0x7f0400b9
+			public const int SundarKaandwebView1 = 2130968761;
 			
 			// aapt resource value: 0x7f040058
 			public const int SundarKandButton = 2130968664;
 			
-			// aapt resource value: 0x7f0400b4
-			public const int SuryaAshtakam = 2130968756;
+			// aapt resource value: 0x7f0400b5
+			public const int SuryaAshtakam = 2130968757;
 			
-			// aapt resource value: 0x7f0400b9
-			public const int SuryaAshtakamwebView1 = 2130968761;
+			// aapt resource value: 0x7f0400ba
+			public const int SuryaAshtakamwebView1 = 2130968762;
 			
 			// aapt resource value: 0x7f040039
 			public const int SuryaChalisaButton = 2130968633;
 			
-			// aapt resource value: 0x7f0400ba
-			public const int SuryaChalisawebView1 = 2130968762;
+			// aapt resource value: 0x7f0400bb
+			public const int SuryaChalisawebView1 = 2130968763;
 			
 			// aapt resource value: 0x7f040015
 			public const int SuryaDevAartiButton = 2130968597;
 			
-			// aapt resource value: 0x7f0400bb
-			public const int SuryaDevAartiwebView1 = 2130968763;
+			// aapt resource value: 0x7f0400bc
+			public const int SuryaDevAartiwebView1 = 2130968764;
 			
 			// aapt resource value: 0x7f04003a
 			public const int TulsiChalisaButton = 2130968634;
 			
-			// aapt resource value: 0x7f0400bc
-			public const int TulsiChalisawebView1 = 2130968764;
+			// aapt resource value: 0x7f0400bd
+			public const int TulsiChalisawebView1 = 2130968765;
 			
 			// aapt resource value: 0x7f04003b
 			public const int VashnoDeviChalisaButton = 2130968635;
 			
-			// aapt resource value: 0x7f0400bd
-			public const int VashnoDeviChalisawebView1 = 2130968765;
+			// aapt resource value: 0x7f0400be
+			public const int VashnoDeviChalisawebView1 = 2130968766;
 			
 			// aapt resource value: 0x7f04003c
 			public const int VindhyeshwariChalisaButton = 2130968636;
 			
-			// aapt resource value: 0x7f0400be
-			public const int VindhyeshwariChalisawebView1 = 2130968766;
-			
-			// aapt resource value: 0x7f0400b5
-			public const int VindhyeshwariStotram = 2130968757;
-			
 			// aapt resource value: 0x7f0400bf
-			public const int VindhyeshwariStotramwebView1 = 2130968767;
-			
-			// aapt resource value: 0x7f0400b7
-			public const int VishnoShatnaamStotram = 2130968759;
+			public const int VindhyeshwariChalisawebView1 = 2130968767;
 			
 			// aapt resource value: 0x7f0400b6
-			public const int VishnorAshtaVinshatiNaamStotram = 2130968758;
+			public const int VindhyeshwariStotram = 2130968758;
+			
+			// aapt resource value: 0x7f0400c0
+			public const int VindhyeshwariStotramwebView1 = 2130968768;
+			
+			// aapt resource value: 0x7f0400b8
+			public const int VishnoShatnaamStotram = 2130968760;
+			
+			// aapt resource value: 0x7f0400b7
+			public const int VishnorAshtaVinshatiNaamStotram = 2130968759;
 			
 			// aapt resource value: 0x7f04003d
 			public const int VishnuChalisaButton = 2130968637;
 			
-			// aapt resource value: 0x7f0400c0
-			public const int VishnuChalisawebView1 = 2130968768;
+			// aapt resource value: 0x7f0400c1
+			public const int VishnuChalisawebView1 = 2130968769;
 			
 			// aapt resource value: 0x7f040016
 			public const int VishnuJeeAartiButton = 2130968598;
 			
-			// aapt resource value: 0x7f0400c1
-			public const int VishnuJeeAartiwebView1 = 2130968769;
-			
 			// aapt resource value: 0x7f0400c2
-			public const int VishnuShatNamStotramwebView1 = 2130968770;
+			public const int VishnuJeeAartiwebView1 = 2130968770;
+			
+			// aapt resource value: 0x7f0400c3
+			public const int VishnuShatNamStotramwebView1 = 2130968771;
 			
 			// aapt resource value: 0x7f040017
 			public const int VrihaspatiDevAartiButton = 2130968599;
 			
-			// aapt resource value: 0x7f0400c3
-			public const int VrihaspatiDevAartiwebView1 = 2130968771;
+			// aapt resource value: 0x7f0400c4
+			public const int VrihaspatiDevAartiwebView1 = 2130968772;
 			
 			// aapt resource value: 0x7f040054
 			public const int VrihaspatiVarKathaButton = 2130968660;
 			
-			// aapt resource value: 0x7f0400c4
-			public const int VrihaspativarVratKathawebView1 = 2130968772;
+			// aapt resource value: 0x7f0400c5
+			public const int VrihaspativarVratKathawebView1 = 2130968773;
 			
 			// aapt resource value: 0x7f040043
 			public const int dwadasa_jyotirlingamwebView1 = 2130968643;

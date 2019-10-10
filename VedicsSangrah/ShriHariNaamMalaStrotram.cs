@@ -24,7 +24,7 @@ namespace VedicsSangrah
             // Create your application here
             SetContentView(Resource.Layout.ShriHariNaamMalaStrotram);
             ShriHariNaamMalaStrotramWebView = FindViewById<WebView>(Resource.Id.ShriHariNaamMalaStrotramwebView1);
-            ShriHariNaamMalaStrotramWebView.SetWebViewClient(new WebViewClient);
+            ShriHariNaamMalaStrotramWebView.SetWebViewClient(new WebViewClient());
             ShriHariNaamMalaStrotramWebView.Settings.JavaScriptEnabled = true;
             ShriHariNaamMalaStrotramWebView.LoadUrl("file:///android_asset/stotram/Shri_hari_namm_mala_strotra.htm");
         }

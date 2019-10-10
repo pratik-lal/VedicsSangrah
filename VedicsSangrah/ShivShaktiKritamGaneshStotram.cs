@@ -24,7 +24,7 @@ namespace VedicsSangrah
             // Create your application here
             SetContentView(Resource.Layout.ShivShaktiKritamGaneshStotram);
             ShivShaktiKritamGaneshStotramWebView = FindViewById<WebView>(Resource.Id.ShivShaktiKritamGaneshStotramwebView1);
-            ShivShaktiKritamGaneshStotramWebView.SetWebViewClient(new WebViewClient);
+            ShivShaktiKritamGaneshStotramWebView.SetWebViewClient(new WebViewClient());
             ShivShaktiKritamGaneshStotramWebView.Settings.JavaScriptEnabled = true;
             ShivShaktiKritamGaneshStotramWebView.LoadUrl("file:///android_asset/stotram/ShivShaktiKritamGaneshStotram.htm");
         }

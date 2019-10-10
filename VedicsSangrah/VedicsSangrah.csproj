@@ -60,6 +60,7 @@
     <Compile Include="AdityahRidayastotra.cs" />
     <Compile Include="AnnapurnaAarti.cs" />
     <Compile Include="AnnapurnaChalisaa.cs" />
+    <Compile Include="AshtaVimsathiVishniNamaStotram.cs" />
     <Compile Include="BudhwarVratKatha.cs" />
     <Compile Include="ChhathVratKatha.cs" />
     <Compile Include="ChitraguptaPujaKatha.cs" />
@@ -70,10 +71,12 @@
     <Compile Include="JanmastamiVratKatha.cs" />
     <Compile Include="KarwaChauthKatha.cs" />
     <Compile Include="KathaKaand.cs" />
+    <Compile Include="KrishnaAshtakam.cs" />
     <Compile Include="Lingastakam.cs" />
     <Compile Include="Madhurastakam.cs" />
     <Compile Include="MahaShivratriKatha.cs" />
     <Compile Include="MangalwarVratKatha.cs" />
+    <Compile Include="MrituanjayStotram.cs" />
     <Compile Include="ParvatiJeeAarti.cs" />
     <Compile Include="RamRakshaStotram.cs" />
     <Compile Include="RamStuti.cs" />
@@ -135,19 +138,24 @@
     <Compile Include="ShreeShivashtakam.cs" />
     <Compile Include="ShriGauriAshtottaraNamavali.cs" />
     <Compile Include="ShriGayatriKavacham.cs" />
+    <Compile Include="ShriGovindDamodarStotram.cs" />
     <Compile Include="ShriHariNaamMalaStrotram.cs" />
+    <Compile Include="ShriRadhaAshtakam.cs" />
     <Compile Include="ShukravarVratKatha.cs" />
     <Compile Include="ShyamBabaAarti.cs" />
     <Compile Include="SomvarVratKatha.cs" />
     <Compile Include="StotraSangrah.cs" />
     <Compile Include="Sundarkand.cs" />
+    <Compile Include="SuryaAshtakam.cs" />
     <Compile Include="SuryaChalisa.cs" />
     <Compile Include="SuryaDevAarti.cs" />
     <Compile Include="TulsiChalisa.cs" />
     <Compile Include="VashnoDeviChalisa.cs" />
     <Compile Include="VindhyeshwariChalisa.cs" />
+    <Compile Include="VindhyeshwariStotram.cs" />
     <Compile Include="VishnuChalisa.cs" />
     <Compile Include="VishnuJeeAarti.cs" />
+    <Compile Include="VishnuShatNamStotram.cs" />
     <Compile Include="VrihaspatiDevAarti.cs" />
     <Compile Include="VrihaspativarVratKatha.cs" />
   </ItemGroup>
@@ -433,6 +441,30 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\ShriHariNaamMalaStrotram.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\KrishnaAshtakam.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\MrituanjayaStotram.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ShriGovindDamodarStotram.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ShriRadhaAshtakam.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\SuryaAshtakam.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\VindhyeshwariStotram.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\AshtaVimsathiVishniNamaStotram.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\VishnuShatNamStotram.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
