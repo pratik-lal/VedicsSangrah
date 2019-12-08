@@ -5,7 +5,7 @@ using Android.Webkit;
 
 namespace VedicsSangrah
 {
-    [Activity(Label = "VindhyeshwariStotram")]
+    [Activity(Label = "विन्ध्येश्वरि स्तोत्र")]
     public class VindhyeshwariStotram : Activity
     {
         WebView VindhyeshwariStotramWebView;

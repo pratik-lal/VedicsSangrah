@@ -156,18 +156,23 @@ namespace VedicsSangrah
             {
                 StartActivity(typeof(ShriRadhaAshtakam));
             };
-            Button button28 = FindViewById<Button>(Resource.Id.VindhyeshwariStotram);
+            Button button28 = FindViewById<Button>(Resource.Id.SuryaAshtakam);
             button28.Click += delegate
+            {
+                StartActivity(typeof(SuryaAshtakam));
+            };
+            Button button29 = FindViewById<Button>(Resource.Id.VindhyeshwariStotram);
+            button29.Click += delegate
             {
                 StartActivity(typeof(VindhyeshwariStotram));
             };
-            Button button29 = FindViewById<Button>(Resource.Id.VishnorAshtaVinshatiNaamStotram);
-            button29.Click += delegate
+            Button button30 = FindViewById<Button>(Resource.Id.VishnorAshtaVinshatiNaamStotram);
+            button30.Click += delegate
             {
                 StartActivity(typeof(AshtaVimsathiVishniNamaStotram));
             };
-            Button button30 = FindViewById<Button>(Resource.Id.VishnoShatnaamStotram);
-            button30.Click += delegate
+            Button button31 = FindViewById<Button>(Resource.Id.VishnoShatnaamStotram);
+            button31.Click += delegate
             {
                 StartActivity(typeof(VishnuShatNamStotram));
             };

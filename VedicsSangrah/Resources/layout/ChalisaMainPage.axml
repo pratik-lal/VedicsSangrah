@@ -133,7 +133,7 @@
             android:textColor="#EE0000"
             android:textSize="46px" />
         <Button
-            android:text="राम चालीसा"
+            android:text="श्री राम चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/RamChalisaButton"
@@ -168,7 +168,7 @@
             android:textColor="#EE0000"
             android:textSize="46px" />
         <Button
-            android:text="शीतला माँ चालीसा"
+            android:text="माँ शीतला चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/SheetlaChalisaButton"

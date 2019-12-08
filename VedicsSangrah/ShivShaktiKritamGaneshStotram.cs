@@ -13,7 +13,7 @@ using Android.Webkit;
 
 namespace VedicsSangrah
 {
-    [Activity(Label = "ShivShaktiKritamGaneshStotram")]
+    [Activity(Label = "शिव शक्ति कृतम गणेश स्तोत्र")]
     public class ShivShaktiKritamGaneshStotram : Activity
     {
         WebView ShivShaktiKritamGaneshStotramWebView;

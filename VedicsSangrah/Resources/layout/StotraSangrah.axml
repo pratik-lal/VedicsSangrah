@@ -140,7 +140,7 @@
             android:textColor="#EE0000"
             android:textSize="46px" />
         <Button
-            android:text="दुर्गा सप्तश्लोकी"
+            android:text="श्री दुर्गा सप्तश्लोकी"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/DurgaSaptsloki"
@@ -161,7 +161,7 @@
             android:textColor="#EE0000"
             android:textSize="46px" />
         <Button
-            android:text="हरि नाम माला स्तोत्र"
+            android:text="श्री हरि नाम माला स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/HariNaamMalaStotram"
@@ -189,7 +189,7 @@
             android:textColor="#EE0000"
             android:textSize="46px" />
         <Button
-            android:text="राधा अष्टकम"
+            android:text="श्री राधा अष्टकम"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/RadhaAshtakam"

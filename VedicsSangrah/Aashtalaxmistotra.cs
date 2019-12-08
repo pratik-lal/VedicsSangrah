@@ -23,7 +23,7 @@ namespace VedicsSangrah
 
             // Create your application here
             SetContentView(Resource.Layout.Ashtalaxmistotra);
-            Aashtalaxmistotrawebview = FindViewById<WebView>(Resource.Id.AshtaLakshmiStotram);
+            Aashtalaxmistotrawebview = FindViewById<WebView>(Resource.Id.AashtalaxmistotrawebView1);
             Aashtalaxmistotrawebview.SetWebViewClient(new WebViewClient());
             Aashtalaxmistotrawebview.Settings.JavaScriptEnabled = true;
             Aashtalaxmistotrawebview.LoadUrl("file:///android_asset/stotram/ashtalaxmistotra.htm");

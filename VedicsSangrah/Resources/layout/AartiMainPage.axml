@@ -84,7 +84,7 @@
             android:textColor="#EE0000"
             android:textSize="46px" />
         <Button
-            android:text="श्री राम चंद्रा जी की आरती"
+            android:text="श्री राम चंद्र जी की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/RamchandraJeeAartiButton"
@@ -168,7 +168,7 @@
             android:textColor="#EE0000"
             android:textSize="46px" />
         <Button
-            android:text="विष्णु जी की आरती"
+            android:text="वृहस्पति देव की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/VrihaspatiDevAartiButton"

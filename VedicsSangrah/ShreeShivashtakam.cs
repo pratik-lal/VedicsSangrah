@@ -13,7 +13,7 @@ using Android.Webkit;
 
 namespace VedicsSangrah
 {
-    [Activity(Label = "ShreeShivashtakam")]
+    [Activity(Label = "शिवाष्टकं")]
     public class ShreeShivashtakam : Activity
     {
         WebView ShreeShivashtakamWebView;
@@ -23,7 +23,7 @@ namespace VedicsSangrah
 
             // Create your application here
             SetContentView(Resource.Layout.ShreeShivashtakam);
-            ShreeShivashtakamWebView = FindViewById<WebView>(Resource.Layout.ShreeShivashtakam);
+            ShreeShivashtakamWebView = FindViewById<WebView>(Resource.Id.ShreeShivashtakamwebView1);
             ShreeShivashtakamWebView.SetWebViewClient(new WebViewClient());
             ShreeShivashtakamWebView.Settings.JavaScriptEnabled = true;
             ShreeShivashtakamWebView.LoadUrl("file:///android_asset/stotram/ShreeShivashtakam.htm");
