@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace VedicsSangrah
 {
-    [Activity(Label = "ChalisaSangrah")]
+    [Activity(Label = "चालीसा संग्रह")]
     public class ChalisaSangrah : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)

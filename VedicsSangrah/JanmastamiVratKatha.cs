@@ -13,7 +13,7 @@ using Android.Webkit;
 
 namespace VedicsSangrah
 {
-    [Activity(Label = "JanmastamiVratKatha")]
+    [Activity(Label = "जन्माष्टमी कथा")]
     public class JanmastamiVratKatha : Activity
     {
         WebView JanmastamiVratKathaWebView;
@@ -26,7 +26,7 @@ namespace VedicsSangrah
             JanmastamiVratKathaWebView = FindViewById<WebView>(Resource.Id.JanmastamiVratKathawebView1);
             JanmastamiVratKathaWebView.SetWebViewClient(new WebViewClient());
             JanmastamiVratKathaWebView.Settings.JavaScriptEnabled = true;
-            JanmastamiVratKathaWebView.LoadUrl("file:///android_asset/katha/sundarkand.htm");
+            JanmastamiVratKathaWebView.LoadUrl("file:///android_asset/katha/JanmastamiKatha.htm");
         }
     }
 }

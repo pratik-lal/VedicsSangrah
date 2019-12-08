@@ -63,7 +63,7 @@
             android:textColor="#EE0000"
             android:textSize="46px" />
         <Button
-            android:text="जन्मास्टमी कथा"
+            android:text="जन्माष्टमी कथा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/JanmastamiKathaButton"

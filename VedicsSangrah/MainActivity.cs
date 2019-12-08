@@ -4,7 +4,7 @@ using Android.OS;
 
 namespace VedicsSangrah
 {
-    [Activity(Label = "VedicsSangrah", MainLauncher = true)]
+    [Activity(Label = "वैदिक संग्रह", MainLauncher = true)]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)

@@ -168,7 +168,7 @@
             android:textColor="#EE0000"
             android:textSize="46px" />
         <Button
-            android:text="कृष्ण अष्टकम"
+            android:text="श्री कृष्ण अष्टकम"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/KrishnaAshtakam"
