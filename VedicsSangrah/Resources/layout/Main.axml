@@ -6,23 +6,31 @@
     android:minWidth="25px"
     android:minHeight="25px">
     <Button
-        android:text="Chalisa Sangrah"
+        android:text="चालीसा संग्रह"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/ChalisaSangrahButton" />
+        android:id="@+id/ChalisaSangrahButton"
+        android:textColor="#EE0000"
+        android:textSize="66px" />
     <Button
-        android:text="Aarti Sangrah"
+        android:text="आरती संग्रह"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/AartiSangrahButton" />
+        android:id="@+id/AartiSangrahButton"
+        android:textColor="#EE0000"
+        android:textSize="66px" />
     <Button
-        android:text="Stotra Sangrah"
+        android:text="स्तोत्र संग्रह"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/StotraSangrahButton" />
+        android:id="@+id/StotraSangrahButton"
+        android:textColor="#EE0000"
+        android:textSize="66px" />
     <Button
-        android:text="Katha - Kaand Sangrah"
+        android:text="कथा एवं कांड संग्रह"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/KathaKandSangrahButton" />
+        android:id="@+id/KathaKandSangrahButton"
+        android:textColor="#EE0000"
+        android:textSize="66px" />
 </LinearLayout>

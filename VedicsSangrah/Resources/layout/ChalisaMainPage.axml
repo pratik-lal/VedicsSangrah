@@ -7,149 +7,207 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <Button
-            android:text="GANESH CHALISA"
+            android:text="गणेश चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/GaneshChalisaButton" />
+            android:id="@+id/GaneshChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="HANUMAN CHALISA"
+            android:text="हनुमान चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/HanumanChalisaButton" />
+            android:id="@+id/HanumanChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Shiv Chalisa"
+            android:text="शिव चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ShivChalisaButton" />
+            android:id="@+id/ShivChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="KRISHNA CHALISA"
+            android:text="कृष्ण चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/KrishnaChalisaButton" />
+            android:id="@+id/KrishnaChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Annapurna Chalisa"
+            android:text="अन्नपूर्णा चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/AnnapurnaChalisaButton" />
+            android:id="@+id/AnnapurnaChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="BRAMHA CHALISA"
+            android:text="ब्रह्म चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/BramhaChalisaButton" />
+            android:id="@+id/BramhaChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="BHAIRAV CHALISA"
+            android:text="भैरव चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/BhairavChalisaButton" />
+            android:id="@+id/BhairavChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="CHITRAGUPTA CHALISA"
+            android:text="चित्रगुप्त चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ChitraguptaChalisaButton" />
+            android:id="@+id/ChitraguptaChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="DURGA CHALISA"
+            android:text="दुर्गा चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/DurgaChalisaButton" />
+            android:id="@+id/DurgaChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="GAYATRI CHALISA"
+            android:text="गायत्री चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/GayatriChalisaButton" />
+            android:id="@+id/GayatriChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="KALI MAA CHALISA"
+            android:text="काली माँ चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/KaliMaaChalisaButton" />
+            android:id="@+id/KaliMaaChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="KHATU SHYAM CHALISA"
+            android:text="खाटू श्याम चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/KhatuShyamChalisaButton" />
+            android:id="@+id/KhatuShyamChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="KUBER CHALISA"
+            android:text="कुबेर चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/KuberChalisaButton" />
+            android:id="@+id/KuberChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="LAKSHMI CHALISA"
+            android:text="लक्ष्मी चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/LakshmiChalisaButton" />
+            android:id="@+id/LakshmiChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="MAHA KALI CHALISA"
+            android:text="महाकाली चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/MahaKaliMaaChalisaButton" />
+            android:id="@+id/MahaKaliMaaChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="NAVGRAH CHALISA"
+            android:text="नवग्रह चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/NavgrahChalisaButton" />
+            android:id="@+id/NavgrahChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="PARVATI CHALISA"
+            android:text="पार्वती चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ParvatiChalisaButton" />
+            android:id="@+id/ParvatiChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="RADHA CHALISA"
+            android:text="राधा चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/RadhaChalisaButton" />
+            android:id="@+id/RadhaChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="RAM CHALISA"
+            android:text="राम चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/RamChalisaButton" />
+            android:id="@+id/RamChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="SAI CHALISA"
+            android:text="साईं चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SaiChalisaButton" />
+            android:id="@+id/SaiChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="SANTOSHI MAA CHALISA"
+            android:text="संतोषी माँ चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SantoshiMaaChalisaButton" />
+            android:id="@+id/SantoshiMaaChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="SHANI DEV CHALISA"
+            android:text="शनि देव चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ShreeShaniDevChalisaButton" />
+            android:id="@+id/ShreeShaniDevChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="SARASWATI CHALISA"
+            android:text="सरस्वती चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SaraswatiChalisaButton" />
+            android:id="@+id/SaraswatiChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="SHEETLA CHALISA"
+            android:text="शीतला माँ चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SheetlaChalisaButton" />
+            android:id="@+id/SheetlaChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="SURYA CHALISA"
+            android:text="सूर्य चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SuryaChalisaButton" />
+            android:id="@+id/SuryaChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="TULSI CHALISA"
+            android:text="तुलसी चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/TulsiChalisaButton" />
+            android:id="@+id/TulsiChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="VASHNO DEVI CHALISA"
+            android:text="माँ वैष्णो देवी चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/VashnoDeviChalisaButton" />
+            android:id="@+id/VashnoDeviChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="VINDHYESHWARI CHALISA"
+            android:text="माँ विन्ध्येश्वरि चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/VindhyeshwariChalisaButton" />
+            android:id="@+id/VindhyeshwariChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="VISHNU CHALISA"
+            android:text="विष्णु चालीसा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/VishnuChalisaButton" />
+            android:id="@+id/VishnuChalisaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
     </LinearLayout>
 </ScrollView>

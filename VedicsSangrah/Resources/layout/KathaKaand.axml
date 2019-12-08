@@ -7,69 +7,95 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <Button
-            android:text="Somvar Vrat Katha"
+            android:text="सोमवार व्रत कथा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SomvarVratKathaButton" />
+            android:id="@+id/SomvarVratKathaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Mangalvar Vrat Katha"
+            android:text="मंगलवार व्रत कथा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/MangalvarKathaButton" />
+            android:id="@+id/MangalvarKathaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Budhvar Vrat Katha"
+            android:text="बुधवार व्रत कथा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/BudhvarVratKathaButton" />
+            android:id="@+id/BudhvarVratKathaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Vrihaspativar Vrat Katha"
+            android:text="वृहस्पतिवार व्रत कथा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/VrihaspatiVarKathaButton" />
+            android:id="@+id/VrihaspatiVarKathaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Shukravar Vrat Katha"
+            android:text="शुक्रवार व्रत कथा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ShukraVarVratKathaButton" />
+            android:id="@+id/ShukraVarVratKathaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Shanivar Vrat Katha"
+            android:text="शनिवार व्रत कथा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ShanivarVratKathaButton" />
+            android:id="@+id/ShanivarVratKathaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Ravivar Vrat Katha"
+            android:text="रविवार व्रत कथा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/RavivarVratKathaButton" />
+            android:id="@+id/RavivarVratKathaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Sundar Kand"
+            android:text="सुंदरकांड"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SundarKandButton" />
+            android:id="@+id/SundarKandButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Janmastami Katha"
+            android:text="जन्मास्टमी कथा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/JanmastamiKathaButton" />
+            android:id="@+id/JanmastamiKathaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Maha Shivratri Katha"
+            android:text="महा शिवरात्रि कथा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/MahaShivratriKathaButton" />
+            android:id="@+id/MahaShivratriKathaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Chhath Katha"
+            android:text="छठ व्रत कथा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ChhathKathaButton" />
+            android:id="@+id/ChhathKathaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Chitragupta Vrat Katha"
+            android:text="चित्रगुप्त व्रत कथा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ChitraguptaKathaButton" />
+            android:id="@+id/ChitraguptaKathaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Karwa Chauth Katha"
+            android:text="करवा चौथ कथा"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/KarwaChauthKathaButton" />
+            android:id="@+id/KarwaChauthKathaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
     </LinearLayout>
 </ScrollView>

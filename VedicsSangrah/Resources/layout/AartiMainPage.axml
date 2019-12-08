@@ -7,124 +7,172 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <Button
-            android:text="Annapurna Mata Ki Aarti"
+            android:text="अन्नपूर्णा माता की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/AnnapurnaAartiButton" />
+            android:id="@+id/AnnapurnaAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Chamunda Devi Aarti"
+            android:text="चामुंडा देवी की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ChamundaDeviAartiButton" />
+            android:id="@+id/ChamundaDeviAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Ganesh Jee Ki Aarti"
+            android:text="गणेश जी की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/GaneshAartiButton" />
+            android:id="@+id/GaneshAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Gayatri Mata Ki Aarti"
+            android:text="गायत्री माता की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/GayatriAartiButton" />
+            android:id="@+id/GayatriAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Hanuman Jee ki Aarti"
+            android:text="हनुमान जी की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/HanumanAartiaButton" />
+            android:id="@+id/HanumanAartiaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Kali Mata ki Aarti"
+            android:text="काली माता की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/KaliMaaAartiButton" />
+            android:id="@+id/KaliMaaAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Krishna Aarti"
+            android:text="श्री कृष्ण जी की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/KrishnaAartiButton" />
+            android:id="@+id/KrishnaAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Kunj Bihari Jee ki Aarti"
+            android:text="श्री कुंज बिहारी जी की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/KunjBihariJeeAartiButton" />
+            android:id="@+id/KunjBihariJeeAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Laxhmi Mata Ki Aarti"
+            android:text="लक्ष्मी माता की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/LaxhmiMaaAartiButton" />
+            android:id="@+id/LaxhmiMaaAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Parvati Mata Ki Aarti"
+            android:text="पार्वती माता की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ParvatiMaaAartiButton" />
+            android:id="@+id/ParvatiMaaAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Radha Jee Ki Aarti"
+            android:text="श्री राधा जी की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/RadhaJeeAartiButton" />
+            android:id="@+id/RadhaJeeAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Ram Chandra Jee Ki Aarti"
+            android:text="श्री राम चंद्रा जी की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/RamchandraJeeAartiButton" />
+            android:id="@+id/RamchandraJeeAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Mata Rani Sati Aarti"
+            android:text="माता रानी सती की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/MataRaniSatiAartiButton" />
+            android:id="@+id/MataRaniSatiAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Sai Baba Ki Aarti"
+            android:text="साईं बाबा की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SaiBabaAartiButton" />
+            android:id="@+id/SaiBabaAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Santoshi Maa Ki Aarti"
+            android:text="संतोषी माता की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SantoshiMaaAartiButton" />
+            android:id="@+id/SantoshiMaaAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Saraswati Prarthna"
+            android:text="सरस्वती प्रार्थना"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SaraswatiPrarthnaButton" />
+            android:id="@+id/SaraswatiPrarthnaButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Satya Narayan Jee Ki Aarti"
+            android:text="सत्य नारायण जी की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SatyaNarayanJeeAartiButton" />
+            android:id="@+id/SatyaNarayanJeeAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Seeta Mata Ki Aarti"
+            android:text="सीता माता की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SeetaMataAartiButton" />
+            android:id="@+id/SeetaMataAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Shani Dev Ki Aarti"
+            android:text="शनि देव की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ShaniDevAartiButton" />
+            android:id="@+id/ShaniDevAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Shiv Jee Ki Aarti"
+            android:text="शिव जी की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ShivJeeAartiButton" />
+            android:id="@+id/ShivJeeAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Shyam Baba Ki Aarti"
+            android:text="श्याम बाबा की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ShyamBabaAartiButton" />
+            android:id="@+id/ShyamBabaAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Surya Dev Ki Aarti"
+            android:text="सूर्य देव की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SuryaDevAartiButton" />
+            android:id="@+id/SuryaDevAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Vishnu Jee Ki Aarti"
+            android:text="विष्णु जी की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/VishnuJeeAartiButton" />
+            android:id="@+id/VishnuJeeAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Vrihaspati Dev Ki Aarti"
+            android:text="विष्णु जी की आरती"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/VrihaspatiDevAartiButton" />
+            android:id="@+id/VrihaspatiDevAartiButton"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
     </LinearLayout>
 </ScrollView>

@@ -7,159 +7,221 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <Button
-            android:text="AchyutAshtakam"
+            android:text="अच्युतस्याष्टकम्"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/Achyutashtakam" />
+            android:id="@+id/Achyutashtakam"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Aditya Hridaya Stotram"
+            android:text="आदित्य हृदय स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/AdityaHridayaStotram" />
+            android:id="@+id/AdityaHridayaStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Ashta Lakshmi Stotram"
+            android:text="अष्ट लक्ष्मी स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/AshtaLakshmiStotram" />
+            android:id="@+id/AshtaLakshmiStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Dwadash Jyotir Lingam"
+            android:text="द्वादश ज्योतिर्लिंग"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/DwadashJyotirLingam" />
+            android:id="@+id/DwadashJyotirLingam"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Ek Shloki Sundarkand"
+            android:text="एक स्लोकी सुंदरकांड"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/EkShlokiSundarkand" />
+            android:id="@+id/EkShlokiSundarkand"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Hari Stotram"
+            android:text="श्री हरि स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/HariStotram" />
+            android:id="@+id/HariStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Himalaykrit Shiv Stotram"
+            android:text="हिमालय कृत शिव स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/HimalaykritShivStotram" />
+            android:id="@+id/HimalaykritShivStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Lingastakam"
+            android:text="लिङ्गाष्टकम्"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/Lingastakam" />
+            android:id="@+id/Lingastakam"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Madhurastakam"
+            android:text="मधुराष्टकम्"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/Madhurastakam" />
+            android:id="@+id/Madhurastakam"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Ram Raksha Stotram"
+            android:text="श्री राम रक्षा स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/RamRakshaStotram" />
+            android:id="@+id/RamRakshaStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Ram Stuti"
+            android:text="श्री राम स्तुति"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/RamStuti" />
+            android:id="@+id/RamStuti"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Rudrastakam"
+            android:text="रुद्राष्टकम्"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/Rudrastakam" />
+            android:id="@+id/Rudrastakam"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Sankat Nashak Ganesh Stotram"
+            android:text=" संकट नाशक गणेश स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SankatNashakGaneshStotram" />
+            android:id="@+id/SankatNashakGaneshStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Saraswati Stotram"
+            android:text="सरस्वती स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SaraswatiStotram" />
+            android:id="@+id/SaraswatiStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Shiva Panchakshara Stotram"
+            android:text="शिव पंचाक्षर स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ShivaPanchaksharaStotram" />
+            android:id="@+id/ShivaPanchaksharaStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Shiva Apradh Kshamapan Stotram"
+            android:text="शिव अपराध क्षमापन स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ShivaApradhKshamapanStotram" />
+            android:id="@+id/ShivaApradhKshamapanStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Shiva Shakti Kritam Ganesh Stotram"
+            android:text="शिव शक्ति कृतम गणेश स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ShivaShaktiKritamGaneshStotram" />
+            android:id="@+id/ShivaShaktiKritamGaneshStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Shiva Tandav Stotram"
+            android:text="शिव तांडव स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ShivaTandavStotram" />
+            android:id="@+id/ShivaTandavStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Shiva Ashtakam"
+            android:text="शिवाष्टकं"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ShivaAshtakam" />
+            android:id="@+id/ShivaAshtakam"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Durga Saptsloki"
+            android:text="दुर्गा सप्तश्लोकी"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/DurgaSaptsloki" />
+            android:id="@+id/DurgaSaptsloki"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Gauri Ashtotra (108) Namavali"
+            android:text="श्री गौर्यष्टोत्तरशतनामावलिः"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/GauriAshtotraNamavali" />
+            android:id="@+id/GauriAshtotraNamavali"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Gayatri Kavacham"
+            android:text="गायत्री कवचम"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/GayatriKavacham" />
+            android:id="@+id/GayatriKavacham"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Hari Naam Mala Stotram"
+            android:text="हरि नाम माला स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/HariNaamMalaStotram" />
+            android:id="@+id/HariNaamMalaStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Krishna Ashtakam"
+            android:text="कृष्ण अष्टकम"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/KrishnaAshtakam" />
+            android:id="@+id/KrishnaAshtakam"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Maha Mritunjay Stotram"
+            android:text="महामृत्युंजय स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/MahaMritunjayStotram" />
+            android:id="@+id/MahaMritunjayStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Govind Damodar Stotram"
+            android:text="गोविंद दामोदर स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/GovindDamodarStotram" />
+            android:id="@+id/GovindDamodarStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Radha Ashtakam"
+            android:text="राधा अष्टकम"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/RadhaAshtakam" />
+            android:id="@+id/RadhaAshtakam"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Surya Ashtakam"
+            android:text="सूर्य अष्टकम"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/SuryaAshtakam" />
+            android:id="@+id/SuryaAshtakam"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Vindhyeshwari Stotram"
+            android:text="विन्ध्येश्वरि स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/VindhyeshwariStotram" />
+            android:id="@+id/VindhyeshwariStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Vishnor Ashta Vinshati Naam Stotram"
+            android:text="अष्टाविंशति विष्णु नाम स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/VishnorAshtaVinshatiNaamStotram" />
+            android:id="@+id/VishnorAshtaVinshatiNaamStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
         <Button
-            android:text="Vishno Shatnaam Stotram"
+            android:text="विष्णु शतनाम स्तोत्र"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/VishnoShatnaamStotram" />
+            android:id="@+id/VishnoShatnaamStotram"
+            android:textColor="#EE0000"
+            android:textSize="46px" />
     </LinearLayout>
 </ScrollView>
