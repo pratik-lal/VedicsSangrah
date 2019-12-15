@@ -1,6 +1,7 @@
 ﻿using Android.App;
 using Android.Widget;
 using Android.OS;
+using Android.Content;
 
 namespace VedicsSangrah
 {
@@ -33,7 +34,22 @@ namespace VedicsSangrah
             {
                 StartActivity(typeof(KathaKaand));
             };
-        
+            ImageButton button5 = FindViewById<ImageButton>(Resource.Id.vedicsimageButton1);
+            button5.Click += delegate
+            {
+                var uri = Android.Net.Uri.Parse("https://vedics.in");
+                var i = new Intent(Intent.ActionView, uri);
+                StartActivity(i);
+            };
+            ImageButton button6 = FindViewById<ImageButton>(Resource.Id.vedicsimageButton2);
+            button6.Click += delegate
+            {
+                var uri = Android.Net.Uri.Parse("https://youtube.com/c/vedics?sub_confirmation=1");
+                var i = new Intent(Intent.ActionView, uri);
+                StartActivity(i);
+            };
+
+
         }
     }
 }

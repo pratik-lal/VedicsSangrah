@@ -23,7 +23,7 @@ namespace VedicsSangrah
 
             // Create your application here
             SetContentView(Resource.Layout.MangalwarVratKatha);
-            MangalwarVratKathaWebView.FindViewById<WebView>(Resource.Id.MangalwarVratKathawebView1);
+            MangalwarVratKathaWebView = FindViewById<WebView>(Resource.Id.MangalwarVratKathawebView1);
             MangalwarVratKathaWebView.SetWebViewClient(new WebViewClient());
             MangalwarVratKathaWebView.Settings.JavaScriptEnabled = true;
             MangalwarVratKathaWebView.LoadUrl("file:///android_asset/katha/MangalvaarVratKatha.htm");
