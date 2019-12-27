@@ -14,6 +14,12 @@ namespace VedicsSangrah
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
+            ImageButton menubutton1 = FindViewById<ImageButton>(Resource.Id.vedicsappmenuButton);
+            menubutton1.Click += delegate
+            {
+                StartActivity(typeof(Menu));
+            };
+
             Button button1 = FindViewById<Button>(Resource.Id.ChalisaSangrahButton);
             button1.Click += delegate
              {

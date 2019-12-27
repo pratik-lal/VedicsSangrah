@@ -4,9 +4,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:minWidth="25px"
-    android:minHeight="25px">
+    android:minHeight="25px"
+    android:background="@drawable/peacockfeather_background">
     <ImageButton
-        android:src="@drawable/vedics_appmenu"
+        android:src="@drawable/vedicsappmenu"
         android:id="@+id/vedicsappmenuButton"
         android:layout_width="120px"
         android:layout_height="120px"
@@ -40,25 +41,18 @@
         android:id="@+id/KathaKandSangrahButton"
         android:textColor="#EE0000"
         android:textSize="66px" />
-    <LinearLayout
-        android:orientation="horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:minWidth="25px"
-        android:minHeight="25px">
-        <ImageButton
-            android:src="@drawable/vedics_sitelaunchermid"
-            android:layout_width="300px"
-            android:layout_height="300px"
-            android:id="@+id/vedicsimageButton1"
-            android:layout_marginLeft="70px"
-            android:layout_marginTop="70px" />
-        <ImageButton
-            android:src="@drawable/vedicson_yt"
-            android:layout_width="300px"
-            android:layout_height="300px"
-            android:id="@+id/vedicsimageButton2"
-            android:layout_marginLeft="100px"
-            android:layout_marginTop="70px" />
-    </LinearLayout>
+    <ImageButton
+        android:src="@drawable/vedics_sitelaunchermid"
+        android:layout_width="300px"
+        android:layout_height="300px"
+        android:id="@+id/vedicsimageButton1"
+        android:layout_gravity="center"
+        android:layout_marginTop="70px" />
+    <ImageButton
+        android:src="@drawable/vedicson_yt"
+        android:layout_width="300px"
+        android:layout_height="300px"
+        android:id="@+id/vedicsimageButton2"
+        android:layout_gravity="center"
+        android:layout_marginTop="70px" />
 </LinearLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:background="@drawable/krishna_flute">
+    <Button
+        android:text="Contact - हमसे संपर्क करें"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/contactusButton"
+        android:textColor="#EE0000"
+        android:textSize="46px" />
+    <Button
+        android:text="Send Corrections - त्रुटि भेजें"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sendcorrectionsButton"
+        android:textColor="#EE0000"
+        android:textSize="46px" />
+    <Button
+        android:text="Content Request - नए अध्याय का अनुरोध करें"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/requestcontentButton"
+        android:textColor="#EE0000"
+        android:textSize="46px" />
+    <Button
+        android:text="Developers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/developerButton"
+        android:textColor="#EE0000"
+        android:textSize="46px" />
+    <Button
+        android:text="Privacy Policy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/privacypolicyButton"
+        android:textColor="#EE0000"
+        android:textSize="46px" />
+    <Button
+        android:text="Contribute to vedics - योगदान करें"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/donateButton"
+        android:textColor="#EE0000"
+        android:textSize="46px" />
+</LinearLayout>
