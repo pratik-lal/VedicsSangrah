@@ -11,3 +11,6 @@ Available Sections:
 * Katha & Kand Sangrah
 
 It will be exciting to hear from you! If you have any feedback, questions, or concerns, please email us at: vedics@hotmail.com
+
+![picture](https://github.com/pratik-lal/VedicsSangrah/blob/master/Vedic%20Sangrah%20Feature%20Graphic-prod.png)
+
