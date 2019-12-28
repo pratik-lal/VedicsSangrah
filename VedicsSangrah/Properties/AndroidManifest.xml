@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="VedicsSangrah.VedicsSangrah" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
-	<uses-sdk android:minSdkVersion="21" />
-	<application android:allowBackup="true" android:icon="@mipmap/vedics_icon" android:theme="@android:style/Theme.DeviceDefault.Light" android:label="वैदिक संग्रह"></application>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.prod.vedicsangrah" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="28" />
+	<application android:allowBackup="true" android:icon="@mipmap/vedics_icon" android:theme="@android:style/Theme.DeviceDefault.Light" android:label="वैदिक संग्रह" android:debuggable="false"></application>
 	<uses-permission android:name="android.permission.INTERNET" />
 	<uses-permission android:name="android.permission.INSTALL_PACKAGES" />
 	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
