@@ -12,8 +12,8 @@ Available Sections:
 
 ## Download & Install
 
-[Download from Google Play Store](https://play.google.com/store/apps/details?id=com.prod.vedicsangrah&hl=en_IN)
-[Source code, Android package (apk)](https://github.com/pratik-lal/VedicsSangrah/releases)
+- [Download from Google Play Store](https://play.google.com/store/apps/details?id=com.prod.vedicsangrah&hl=en_IN)
+- [Source code, Android package (apk)](https://github.com/pratik-lal/VedicsSangrah/releases)
 
 It will be exciting to hear from you! If you have any feedback, questions, or concerns, please email us at: vedics@hotmail.com
 
