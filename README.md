@@ -1,3 +1,5 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 # Vedic Sangrah - वैदिक संग्रह
 VedicsSangrah Anroid Application.
 Vedic Sangrah is collection of popular Hindu Chalisa, Aarti, Stotram, Katha and Kand. We're trying to address the problem of having multiple applications for all the scriptures. Vedic Sangrah is free forever, it works offline (internet access is not required after application download) and there is no advertisement.
